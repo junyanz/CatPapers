@@ -6,14 +6,10 @@ As reported by Cisco, 90% of net traffic will be visual, and indeed, most of the
 
 
 <table>
-<colgroup>
-<col width="25%" />
-<col width="75%" />
-</colgroup>
 <tbody>
 <tr>
-<td align="left"><a href="http://graphics.cs.cmu.edu/projects/deepContext/"><img src="teasers/DoerschICCV2015.jpg" alt="" /></a></td>
-<td align="left">Unsupervised Visual Representation Learning by Context Prediction
+<td align="left" width=250><a href="http://graphics.cs.cmu.edu/projects/deepContext/"><img src="teasers/DoerschICCV2015.jpg" alt="" /></a></td>
+<td align="left" width=550>Unsupervised Visual Representation Learning by Context Prediction
 <br>
 <a href="http://www.cs.cmu.edu/~cdoersch/">Carl Doersch</a>, <a href="http://www.cs.cmu.edu/~abhinavg/">Abhinav Gupta</a>, <a href="http://www.eecs.berkeley.edu/~efros/">Alexei A. Efros</a>
 <br>
