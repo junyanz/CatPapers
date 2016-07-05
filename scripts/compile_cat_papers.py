@@ -20,8 +20,6 @@ class Paper():
       line_proc = line.replace("'", '').replace('[', '').replace(']','').replace(', ', ',')
       items = line_proc.split(',')
 
-#       for item in items:
-#         print(item)
       [self.title, self.year, self.paper, self.project,self.article,ainfo] = items
       if self.project is not None:
         self.imgurl = self.project
@@ -29,7 +27,7 @@ class Paper():
         self.imgurl = self.paper
       else:
         print('ERROR: no paper/project')
-#       st()
+
       self.year = int(float(self.year))
       self.title = self.title.replace('$', ',')
       author_records = ainfo.split(';')
@@ -44,7 +42,6 @@ class Paper():
           url = author_r[pos_id+1:]
         else:
           author = author_r
-#         print('add %s at %s' % (author, url))
         self.authors.append(author)
         self.author_urls.append(url)
       # get teaser name
@@ -65,36 +62,44 @@ class Paper():
 
       return tmp
 
+    def AddAuthors(self, content):
+      for author, url in zip(self.authors[:-1], self.author_urls[:-1]):
+        if url:
+          content += '<a href="%s">%s</a>, \n' % (url, author)
+        else:
+          content += '%s, \n' % author
+      if self.author_urls[-1]:
+        content += '<a href="%s">%s</a><br>\n' % (self.author_urls[-1], self.authors[-1])
+      else:
+        content += '%s<br>\n' % self.authors[-1]
+      return content
 
-#     def __lt__(self, other):
-#       if self.year < other.year:
-#         return True
-#       elif self.year > other.year:
-#         return False
-#       else:
-#         return self.article < other.article
+    def WriteHTML(self, html):
+      paper_html = '<table><tbody><tr><td>\n'
+      paper_html += '<a href="%s"><img src="teasers/%s"/ border=1 width=210></a></td>\n' % (self.imgurl, self.teaser)
+      paper_html += '<td width="20"></td>\n<td valign="middle" width="680">'
+      paper_html += '<strong>%s</strong>\n' % self.title
+      paper_html += '<p class="content">'
+      paper_html = self.AddAuthors(paper_html)
+      paper_html += 'In %s %d<br>\n' % (self.article, self.year)
+      if self.paper:
+        paper_html += '<strong><a href="%s">[Paper]</a></strong> \n' % self.paper
+      if self.project:
+        paper_html += '<strong><a href="%s">[Project]</a></strong>\n' % self.project
+      paper_html += '</p></tr></tbody></table><br>\n\n'
+      html += paper_html
+      return html
 
     def WriteMD(self, md):
       paper_md = '<table> <tbody> <tr> <td align="left" width=250>\n'
       paper_md += '<a href="%s"><img src="teasers/%s"/></a></td>\n' % (self.imgurl, self.teaser)
       paper_md += '<td align="left" width=550>%s<br>\n' % self.title
-      n_authors = len(self.authors)
-      for i, (author, url) in enumerate(zip(self.authors, self.author_urls)):
-        if i < n_authors-1:
-          if url:
-            paper_md += '<a href="%s">%s</a>, \n' % (url, author)
-          else:
-            paper_md += '%s, \n' % author
-        else:
-          if url:
-            paper_md += '<a href="%s">%s</a><br>\n' % (url, author)
-          else:
-            paper_md += '%s\n' % author
+      paper_md = self.AddAuthors(paper_md)
       paper_md += 'In %s %d<br>\n' % (self.article, self.year)
       if self.paper:
         paper_md += '<a href="%s">[Paper]</a> \n' % self.paper
       if self.project:
-        paper_md += '<a href="%s">[Project]</a> \n' % self.project
+        paper_md += '<a href="%s">[Project]</a>\n' % self.project
       paper_md += '</td></tr></tbody></table>\n\n\n'
       md += paper_md
       return md
@@ -106,45 +111,47 @@ def ReadPapers(csv_file):
     csv_data = csv.reader(cfile)
     next(csv_data)
 
-    for i, row in enumerate(csv_data):
+    for row in csv_data:
       paper = Paper()
       paper.ParseCSV(row)
-      print(paper.title)
-
+      print 'add [%s]' % paper.title
       papers.append(paper)
   return papers
 
-def WriteMD(papers, header_file=None, end_file=None):
-  md = ''  # load header and end
+def WritePapers(papers, header_file=None, end_file=None, TYPE='md'):
+  mtd_str = 'Write'+TYPE.upper()
+  content = ''
+  # add header file
   if header_file and os.path.exists(header_file):
     with open(header_file, 'r') as hfile:
-      md = hfile.read()
+      content = hfile.read()
 
-  md += '\n\n\n'
+  content += '\n<br>\n\n'
   for paper in papers:
-    md = paper.WriteMD(md)
-  md += '\n\n\n'
+    content = getattr(paper, mtd_str)(content)
+  content += '\n<br>\n\n'
 
   if end_file and os.path.exists(end_file):
     with open(end_file, 'r') as efile:
-      md += efile.raed()
+      content += efile.read()
 
-  return md
+  return content
 
 
 if __name__ == '__main__':
+  TYPE = 'md' #html, md
   WORK_DIR = '../data/'
-  header_file = os.path.join(WORK_DIR, 'header.md')
-  end_file = os.path.join(WORK_DIR, 'end.md')
+  # input & output
+  header_file = os.path.join(WORK_DIR, 'header.%s' % TYPE)
+  end_file = os.path.join(WORK_DIR, 'end.%s' % TYPE)
   csv_file = os.path.join(WORK_DIR, 'reference.csv')#./usr/local/google/home/junyanz/Projects/CatPapers/reference.csv'
-  out_file = os.path.join(WORK_DIR, 'output.md')
-
+  out_file = os.path.join('../', 'web.%s' % TYPE)
+  # load papers
   papers = ReadPapers(csv_file=csv_file)
+  # sort papers
   papers.sort(key=lambda p: p.title)
   papers.sort(key=lambda p: (p.year, p.article), reverse=True)
-
-
+  # write papers
   with open(out_file, 'w') as f:
-    md_content = WriteMD(papers, header_file, end_file)
+    md_content = WritePapers(papers, header_file, end_file, TYPE=TYPE)
     f.write(md_content)
-  # parse headers
