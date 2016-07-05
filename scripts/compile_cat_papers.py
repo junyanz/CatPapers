@@ -1,7 +1,8 @@
 import csv
 import os
 from pdb import set_trace as st
-from audioop import reverse
+import argparse
+
 
 class Paper():
     def __init__(self):
@@ -26,7 +27,13 @@ class Paper():
       elif self.paper is not None:
         self.imgurl = self.paper
       else:
-        print('ERROR: no paper/project')
+        print 'ERROR: no paper/project'
+      if not self.title:
+        print 'ERROR: no title'
+      if not self.article:
+        print 'ERROR: no article'
+      if not self.year:
+        print 'ERROR: no year'
 
       self.year = int(float(self.year))
       self.title = self.title.replace('$', ',')
@@ -44,8 +51,8 @@ class Paper():
           author = author_r
         self.authors.append(author)
         self.author_urls.append(url)
-      # get teaser name
-      author_name = self.authors[0]
+
+      author_name = self.authors[0]  # get teaser name
       last_name = author_name.split(' ')[-1]
       if not self.teaser:
         self.teaser = '%s%d.jpg' % (last_name, self.year)
@@ -115,7 +122,7 @@ def ReadPapers(csv_file):
     for row in csv_data:
       paper = Paper()
       paper.ParseCSV(row)
-      print 'add [%s]' % paper.title
+#       print 'add [%s]' % paper.title
       papers.append(paper)
   return papers
 
@@ -139,14 +146,24 @@ def WritePapers(papers, header_file=None, end_file=None, TYPE='md'):
   return content
 
 
+
 if __name__ == '__main__':
-  TYPE = 'md' #html, md
+  # example usage (markdown):  python compile_cat_papers.py -t md -o ../test
+  # example usage (html):  python compile_cat_papers.py -t html -o ../test
+  parser = argparse.ArgumentParser(description='Compile cat papers.')
+  parser.add_argument('-t', '--type', help='type of output file (md or html)', default='html')
+  parser.add_argument('-o', '--output', help='name of the output file')
+  args = parser.parse_args()
+
+
+  TYPE = args.type  #html, md
+  out_file  = '%s.%s' % (args.output, args.type) # output file
+  print 'Write %s file <%s>' % (TYPE.upper(), out_file)
   WORK_DIR = '../data/'
   # input & output
   header_file = os.path.join(WORK_DIR, 'header.%s' % TYPE)
   end_file = os.path.join(WORK_DIR, 'end.%s' % TYPE)
   csv_file = os.path.join(WORK_DIR, 'reference.csv')#./usr/local/google/home/junyanz/Projects/CatPapers/reference.csv'
-  out_file = os.path.join('../', 'web.%s' % TYPE)
   # load papers
   papers = ReadPapers(csv_file=csv_file)
   # sort papers
