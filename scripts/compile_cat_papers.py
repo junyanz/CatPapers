@@ -20,7 +20,7 @@ class Paper():
       line_proc = line.replace("'", '').replace('[', '').replace(']','').replace(', ', ',')
       items = line_proc.split(',')
 
-      [self.title, self.year, self.paper, self.project,self.article,ainfo] = items
+      [self.title, self.year, self.paper, self.project,self.article, ainfo, self.teaser] = items
       if self.project is not None:
         self.imgurl = self.project
       elif self.paper is not None:
@@ -47,7 +47,8 @@ class Paper():
       # get teaser name
       author_name = self.authors[0]
       last_name = author_name.split(' ')[-1]
-      self.teaser = '%s%d.jpg' % (last_name, self.year)
+      if not self.teaser:
+        self.teaser = '%s%d.jpg' % (last_name, self.year)
 
 
     def __str__(self):

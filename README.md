@@ -4,9 +4,21 @@ As reported by Cisco, 90% of net traffic will be visual, and indeed, most of the
 
 **Cat Paper Collection** is an academic paper collection that includes computer graphics, computer vision and machine learning papers that produce experimental results related to **cats**. If you want to add/remove a paper, please send an email to [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/) (junyanz at berkeley dot edu).
 
-See also **[[Webpage]](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)**  **[[CSV file]](https://github.com/junyanz/CatPapers/blob/master/data/reference.csv)**
+
+See also [[Webpage]](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)  [[CSV file]](https://github.com/junyanz/CatPapers/blob/master/data/reference.csv)
 
 
+<br>
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href=""><img src="teasers/Campen2016.jpg"/></a></td>
+<td align="left" width=550>Bijective Maps from Simplicial Foliations<br>
+<a href="https://www.graphics.rwth-aachen.de/person/7/">Marcel Campen</a>,
+<a href="http://vgc.poly.edu/~csilva/">Claudio T. Silva</a>,
+<a href="http://mrl.nyu.edu/~dzorin/">Denis Zorin</a><br>
+In SIGGRAPH 2016<br>
+<a href="https://www.graphics.rwth-aachen.de/media/papers/Campen2016_SimplicialFoliations.pdf">[Paper]</a>
+</td></tr></tbody></table>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
@@ -70,6 +82,20 @@ In ICCV 2015<br>
 <a href="http://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a><br>
 In CVPR 2015<br>
 <a href="http://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf">[Paper]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://sites.google.com/site/marcolivesu/quadlayouts"><img src="teasers/Usai2015.jpg"/></a></td>
+<td align="left" width=550>Extraction of the Quad Layout of a Triangle Mesh Guided by its Curve-Skeleton<br>
+<a href="http://francescousai.info/">Francesco Usai</a>,
+<a href="https://sites.google.com/site/marcolivesu/">Marco Livesu</a>,
+<a href="http://www.disi.unige.it/person/PuppoE/">Enrico Puppo</a>,
+<a href="http://vcg.isti.cnr.it/~tarini/">Marco Tarini</a>,
+<a href="http://ugo.sc.unica.it/">Riccardo Scateni</a><br>
+In ACM Transactions on Graphics (TOG) 2015<br>
+<a href="https://drive.google.com/open?id=0B6EEjMMaU7haZG9hVVpxSjd2dEE">[Paper]</a>
+<a href="https://sites.google.com/site/marcolivesu/quadlayouts">[Project]</a>
 </td></tr></tbody></table>
 
 
@@ -200,6 +226,30 @@ In CVPR 2013<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/nr_mesh/nrMesh_tog.html"><img src="teasers/Huang2013.jpg"/></a></td>
+<td align="left" width=550>Near-Regular Structure Discovery Using Linear Programming<br>
+<a href="http://ttic.uchicago.edu/~huangqx/">Qixing Huang</a>,
+<a href="http://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a>,
+<a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy J. Mitra</a><br>
+In ACM Transactions on Graphics 2013<br>
+<a href="http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/nr_mesh/paper_docs/nrMesh_tog.pdf">[Paper]</a>
+<a href="http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/nr_mesh/nrMesh_tog.html">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://hal.inria.fr/hal-00732992"><img src="teasers/Boye2012.jpg"/></a></td>
+<td align="left" width=550>A Vectorial Solver for Free-form Vector Gradients<br>
+<a href="http://manao.inria.fr/team/boye/">Simon Boye</a>,
+<a href="http://www.labri.fr/perso/barla/blog/">Pascal Barla</a>,
+<a href="http://www.labri.fr/perso/guenneba/">Gael Guennebaud</a><br>
+In SIGGRAPH Asia 2012<br>
+<a href="https://hal.archives-ouvertes.fr/hal-00732992/PDF/vs4vg_2012.pdf">[Paper]</a>
+<a href="https://hal.inria.fr/hal-00732992">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href=""><img src="teasers/Chen2012.jpg"/></a></td>
 <td align="left" width=550>Manifold Preserving Edit Propagation<br>
 <a href="http://arts.buaa.edu.cn/staff/chen/index.htm">Xiaowu Chen</a>,
@@ -265,6 +315,42 @@ In CVPR 2012<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://sweb.cityu.edu.hk/hongbofu/projects/animatedconstructionoflinedrawings_sigga11/#.V3wdKZErI2w"><img src="teasers/Fu2011.jpg"/></a></td>
+<td align="left" width=550>Animated Construction of Line Drawings<br>
+<a href="http://sweb.cityu.edu.hk/hongbofu/">Hongbo Fu</a>,
+<a href="http://sweb.cityu.edu.hk/shizzhou/">Shizhe Zhou</a>,
+<a href="http://staff.ustc.edu.cn/~lgliu/"> Ligang Liu</a>,
+<a href="http://graphics.stanford.edu/~niloy/">Niloy J. Mitra</a><br>
+In SIGGRAPH Asia 2011<br>
+<a href="http://www.jdl.ac.cn/project/faceId/paperreading/Paper/nyji_20120329_2.pdf">[Paper]</a>
+<a href="http://sweb.cityu.edu.hk/hongbofu/projects/animatedconstructionoflinedrawings_sigga11/#.V3wdKZErI2w">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://www.microsoft.com/en-us/research/publication/nonlinear-revision-control-for-images/"><img src="teasers/Chen2011.jpg"/></a></td>
+<td align="left" width=550>Nonlinear Revision Control for Images<br>
+<a href="http://www.ht-timchen.com/">Hsiang-Ting Chen</a>,
+<a href="http://www.liyiwei.org/">Li-Yi Wei</a>,
+<a href="https://cchang.wordpress.com/\n">Chun-Fa Chang</a><br>
+In SIGGRAPH  2011<br>
+<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.465.986&rep=rep1&type=pdf">[Paper]</a>
+<a href="https://www.microsoft.com/en-us/research/publication/nonlinear-revision-control-for-images/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href=""><img src="teasers/Kim2011.jpg"/></a></td>
+<td align="left" width=550>Blended Intrinsic Maps<br>
+<a href="http://vovakim.com/">Vladimir G. Kim</a>,
+<a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman</a>,
+<a href="http://www.cs.princeton.edu/~funk/"> Thomas Funkhouser</a><br>
+In SIGGRAPH 2011<br>
+<a href="http://www.cs.princeton.edu/~funk/sig11.pdf">[Paper]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="http://zurich.disneyresearch.com/OverCoat/"><img src="teasers/Schmid2011.jpg"/></a></td>
 <td align="left" width=550>OverCoat: An Implicit Canvas for 3D Painting<br>
 Johannes Schmid,
@@ -274,6 +360,18 @@ Martin Sebastian Senn,
 In SIGGRAPH 2011<br>
 <a href="http://zurich.disneyresearch.com/OverCoat/OverCoat-preprint-s.pdf">[Paper]</a>
 <a href="http://zurich.disneyresearch.com/OverCoat/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://www.cs.cmu.edu/~kmcrane/Projects/SpinTransformations/"><img src="teasers/Crane2011.jpg"/></a></td>
+<td align="left" width=550>Spin Transformations of Discrete Surfaces<br>
+<a href="http://www.cs.cmu.edu/~kmcrane/">Keenan Crane</a>,
+<a href="http://page.math.tu-berlin.de/~pinkall/">Ulrich Pinkall</a>,
+<a href="http://users.cms.caltech.edu/~ps/">Peter Schroder</a><br>
+In SIGGRAPH 2011<br>
+<a href="http://www.cs.cmu.edu/~kmcrane/Projects/SpinTransformations/paper.pdf">[Paper]</a>
+<a href="http://www.cs.cmu.edu/~kmcrane/Projects/SpinTransformations/">[Project]</a>
 </td></tr></tbody></table>
 
 
@@ -291,6 +389,44 @@ In ICCV 2011<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://meekohi.com/Holroyd10/"><img src="teasers/Holroyd2010.jpg"/></a></td>
+<td align="left" width=550>A Coaxial Optical Scanner for Synchronous Acquisition of 3D Geometry and Surface Reflectance<br>
+<a href="http://meekohi.com/">Michael Holroyd</a>,
+<a href="http://www.cs.virginia.edu/~jdl/">Jason Lawrence</a>,
+<a href="http://www.eecs.harvard.edu/~zickler/">Todd Zickler</a><br>
+In SIGGRAPH 2010<br>
+<a href="http://www.cs.virginia.edu/~mjh7v/papers/Holroyd10.pdf">[Paper]</a>
+<a href="http://meekohi.com/Holroyd10/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://resources.mpi-inf.mpg.de/ResolutionEnhancement/"><img src="teasers/Didyk2010.jpg"/></a></td>
+<td align="left" width=550>Apparent Display Resolution Enhancement for Moving Images<br>
+<a href="http://people.csail.mit.edu/pdidyk/">Piotr Didyk</a>,
+<a href="http://perso.telecom-paristech.fr/~eisemann/">Elmar Eisemann</a>,
+<a href="http://www.mpi-inf.mpg.de/~ritschel/">Tobias Ritschel</a>,
+<a href="http://www.mpi-inf.mpg.de/~karol/">Karol Myszkowski</a>,
+<a href="http://www.mpi-inf.mpg.de/~hpseidel/">Hans-Peter Seidel</a><br>
+In SIGGRAPH 2010<br>
+<a href="http://resources.mpi-inf.mpg.de/ResolutionEnhancement/ResolutionEnhancement.pdf">[Paper]</a>
+<a href="http://resources.mpi-inf.mpg.de/ResolutionEnhancement/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://www.gmrv.es/Publications/2010/SPO10/"><img src="teasers/Schvartzman2010.jpg"/></a></td>
+<td align="left" width=550>Star-Contours for Efficient Hierarchical Self-Collision Detection<br>
+<a href="http://www.gmrv.es/~sschvartzman">Sara C. Schvartzman</a>,
+<a href="http://www.gmrv.es/~aperez/">Alvaro G. Perez</a>,
+<a href="http://www.gmrv.es/~motaduy">Miguel A. Otaduy</a><br>
+In SIGGRAPH 2010<br>
+<a href="http://www.gmrv.es/Publications/2010/SPO10/SCTT.pdf">[Paper]</a>
+<a href="http://www.gmrv.es/Publications/2010/SPO10/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="http://gfx.cs.princeton.edu/pubs/Lipman_2009_MVF/index.php"><img src="teasers/Lipman2009.jpg"/></a></td>
 <td align="left" width=550>Mobius Voting for Surface Correspondence<br>
 <a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman</a>,
@@ -298,6 +434,32 @@ In ICCV 2011<br>
 In SIGGRAPH 2009<br>
 <a href="http://gfx.cs.princeton.edu/pubs/Lipman_2009_MVF/mobius.pdf">[Paper]</a>
 <a href="http://gfx.cs.princeton.edu/pubs/Lipman_2009_MVF/index.php">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://people.csail.mit.edu/wojciech/MovingGradients/"><img src="teasers/Mahajan2009.jpg"/></a></td>
+<td align="left" width=550>Moving Gradients: A Path-Based Method for Plausible Image Interpolation<br>
+<a href="http://www.cs.columbia.edu/~dhruv/">Dhruv Mahajan</a>,
+<a href="https://sites.google.com/site/jonash123/">Fu-Chung Huang</a>,
+<a href="http://people.csail.mit.edu/wojciech/">Wojciech Matusik</a>,
+<a href="https://cseweb.ucsd.edu/~ravir/">Ravi Ramamoorthi</a>,
+<a href="http://www.cs.columbia.edu/~belhumeur/">Peter Belhumeur</a><br>
+In SIGGRAPH 2009<br>
+<a href="http://people.csail.mit.edu/wojciech/MovingGradients/MovingGradients.pdf">[Paper]</a>
+<a href="http://people.csail.mit.edu/wojciech/MovingGradients/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://web.media.mit.edu/~bandy/rgb/"><img src="teasers/Bando2008.jpg"/></a></td>
+<td align="left" width=550>Extracting Depth and Matte using a Color-Filtered Aperture<br>
+<a href="http://web.media.mit.edu/~bandy/">Yosuke Bando</a>,
+<a href="http://www.management.ntu.edu.tw/en/teachers/17">Bing-Yu Chen</a>,
+<a href="http://nishitalab.org/user/nis/">Tomoyuki Nishita</a><br>
+In SIGGRAPH Asia 2008<br>
+<a href="http://web.media.mit.edu/~bandy/rgb/SIGA08rgb.pdf">[Paper]</a>
+<a href="http://web.media.mit.edu/~bandy/rgb/">[Project]</a>
 </td></tr></tbody></table>
 
 
@@ -312,6 +474,20 @@ Chi Liu,
 In SIGGRAPH 2008<br>
 <a href="http://chiakailiang.org/pap/pdf/sig08_preprint.pdf">[Paper]</a>
 <a href="http://chiakailiang.org/pap/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://www.cse.cuhk.edu.hk/~ttwong/papers/structurehalftone/structurehalftone.html"><img src="teasers/Pang2008.jpg"/></a></td>
+<td align="left" width=550>Structure-Aware Halftoning<br>
+<a href="http://www.cihe.edu.hk/~wmpang/">Wai-Man Pang</a>,
+Yingge Qu,
+<a href="http://www.cse.cuhk.edu.hk/~ttwong/myself.html">Tien-Tsin Wong</a>,
+<a href="http://www.math.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
+<a href="http://www.cse.cuhk.edu.hk/~pheng/">Pheng-Ann Heng</a><br>
+In SIGGRAPH 2008<br>
+<a href="https://www.researchgate.net/profile/Wai-Man_Pang/publication/200018906_Structure-Aware_Halftoning/links/02e7e51de74ad05a1b000000.pdf">[Paper]</a>
+<a href="http://www.cse.cuhk.edu.hk/~ttwong/papers/structurehalftone/structurehalftone.html">[Project]</a>
 </td></tr></tbody></table>
 
 
@@ -337,6 +513,31 @@ Christine Depraz<br>
 In Symposium on Computer Animation 2007<br>
 <a href="http://www-evasion.imag.fr/Publications/2007/AHLD07/HarmonicSkeleton.pdf">[Paper]</a>
 <a href="http://www-evasion.imag.fr/Publications/2007/AHLD07/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://www.mit.edu/~ibaran/autorig/"><img src="teasers/Baran2007.jpg"/></a></td>
+<td align="left" width=550>Automatic rigging and animation of 3D characters<br>
+<a href="http://www.mit.edu/~ibaran/">Ilya Baran</a>,
+<a href="http://people.csail.mit.edu/jovan/">Jovan Popovic</a><br>
+In SIGGRAPH 2007<br>
+<a href="http://people.csail.mit.edu/ibaran/papers/2007-SIGGRAPH-Pinocchio.pdf">[Paper]</a>
+<a href="http://www.mit.edu/~ibaran/autorig/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href=""><img src="teasers/Shi2007.jpg"/></a></td>
+<td align="left" width=550>Mesh Puppetry: Cascading Optimization of Mesh Deformation with Inverse Kinematics<br>
+<a href="https://sites.google.com/site/royitaqi/">Xiaohan Shi</a>,
+<a href="http://www.kunzhou.net/">Kun Zhou</a>,
+<a href="http://www.cse.msu.edu/~ytong/">Yiying Tong</a>,
+<a href="http://www.geometry.caltech.edu/~mathieu/">Mathieu Desbrun</a>,
+<a href="http://www.cad.zju.edu.cn/home/bao/">Hujun Bao</a>,
+<a href="https://www.microsoft.com/en-us/research/people/bainguo/">Baining Guo</a><br>
+In SIGGRAPH 2007<br>
+<a href="http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8E1AD9DB3F200954341D4C96A1F9C9E1?doi=10.1.1.152.7336&rep=rep1&type=pdf">[Paper]</a>
 </td></tr></tbody></table>
 
 
@@ -379,6 +580,28 @@ In SIGGRAPH 2006<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href=""><img src="teasers/Zhang2006.jpg"/></a></td>
+<td align="left" width=550>Vector Field Design on Surfaces<br>
+<a href="http://web.engr.oregonstate.edu/~zhange/">Eugene Zhang</a>,
+<a href="https://www.math.rutgers.edu/~mischaik/">Konstantin Mischaikow</a>,
+<a href="http://www.cc.gatech.edu/~turk/">Greg Turk</a><br>
+In ACM Transactions on Graphics (TOG) 2006<br>
+<a href="http://www.math.rutgers.edu/~mischaik/papers/vecflddesn.pdf">[Paper]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href=""><img src="teasers/Kharevych2006.jpg"/></a></td>
+<td align="left" width=550>Discrete conformal mappings via circle patterns<br>
+Liliya Kharevych,
+<a href="http://page.math.tu-berlin.de/~springb/">Boris Springborn</a>,
+<a href="http://users.cms.caltech.edu/~ps/">Peter Schroder</a><br>
+In ACM Transactions on Graphics 2006<br>
+<a href="http://www.cs.jhu.edu/~misha/Fall09/Kharevych06.pdf">[Paper]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href=""><img src="teasers/Zhou2005.jpg"/></a></td>
 <td align="left" width=550>Large mesh deformation using the volumetric graph Laplacian<br>
 <a href="http://www.kunzhou.net/">Kun Zhou</a>,
@@ -394,6 +617,20 @@ In SIGGRAPH 2005<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href=""><img src="teasers/Zhou2005b.jpg"/></a></td>
+<td align="left" width=550>TextureMontage: Seamless Texturing of Arbitrary Surfaces From Multiple Images<br>
+<a href="http://www.kunzhou.net/">Kun Zhou</a>,
+Xi Wang,
+<a href="http://www.cse.msu.edu/~ytong/">Yiying Tong</a>,
+<a href="http://www.geometry.caltech.edu/~mathieu/">Mathieu Desbrun</a>,
+<a href="https://www.microsoft.com/en-us/research/people/bainguo/">Baining Guo</a>,
+<a href="https://news.microsoft.com/exec/harry-shum/#sm.0000132byn4sagcq3zb3rckw1y2ny">Heung-Yeung Shum</a><br>
+In SIGGRAPH 2005<br>
+<a href="http://kunzhou.net/publications/texturemontage.pdf">[Paper]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="http://people.csail.mit.edu/sumner/research/deftransfer/"><img src="teasers/Sumner2004.jpg"/></a></td>
 <td align="left" width=550>Deformation Transfer for Triangle Meshes<br>
 <a href="https://graphics.ethz.ch/~sumnerb/">Robert W. Sumner</a>,
@@ -401,6 +638,18 @@ In SIGGRAPH 2005<br>
 In SIGGRAPH 2004<br>
 <a href="http://people.csail.mit.edu/sumner/research/deftransfer/Sumner2004DTF.pdf">[Paper]</a>
 <a href="http://people.csail.mit.edu/sumner/research/deftransfer/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://graphics.cs.yale.edu/site/publications/stereological-techniques-solid-textures?destination=node%2F57"><img src="teasers/Jagnow2004.jpg"/></a></td>
+<td align="left" width=550>Stereological Techniques for Solid Textures<br>
+<a href="http://robjagnow.com/">Robert Jagnow</a>,
+<a href="http://graphics.cs.yale.edu/site/people/julie-dorsey">Julie Dorsey</a>,
+<a href="http://graphics.cs.yale.edu/site/people/holly-rushmeier/">Holly Rushmeier</a><br>
+In ACM Transactions on Graphics (TOG) 2004<br>
+<a href="http://graphics.cs.yale.edu/site/sites/files/Stereological%20Techniques.pdf">[Paper]</a>
+<a href="http://graphics.cs.yale.edu/site/publications/stereological-techniques-solid-textures?destination=node%2F57">[Project]</a>
 </td></tr></tbody></table>
 
 
@@ -427,6 +676,30 @@ Zhunping Zhang,
 <a href="https://news.microsoft.com/exec/harry-shum/#sm.0000132byn4sagcq3zb3rckw1y2ny">Heung-Yeung Shum</a><br>
 In SIGGRAPH 2002<br>
 <a href="http://dl.acm.org/citation.cfm?id=566602">[Paper]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href=""><img src="teasers/Tong2002.jpg"/></a></td>
+<td align="left" width=550>Synthesis of Bidirectional Texture Functions on Arbitrary Surfaces<br>
+<a href="http://research.microsoft.com/en-us/um/people/xtong/xtong.html">Xin Tong</a>,
+Jingdan Zhang,
+<a href="http://staff.ustc.edu.cn/~lgliu/"> Ligang Liu</a>,
+Xi Wang,
+<a href="https://www.microsoft.com/en-us/research/people/bainguo/">Baining Guo</a>,
+<a href="https://news.microsoft.com/exec/harry-shum/#sm.0000132byn4sagcq3zb3rckw1y2ny"> Heung-Yeung Shum</a><br>
+In SIGGRAPH 2002<br>
+<a href="http://www.msr-waypoint.com/en-us/um/people/xtong/BTFSynthesis.pdf">[Paper]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href=""><img src="teasers/Sheffer2002.jpg"/></a></td>
+<td align="left" width=550>Smoothing an Overlay Grid to Minimize Linear Distortion in Texture Mapping<br>
+<a href="http://www.cs.ubc.ca/~sheffa/">Alla Sheffer</a>,
+<a href="http://www.math.vt.edu/people/sturler/">Eric de Sturler</a><br>
+In ACM Transactions on Graphics (TOG) 2002<br>
+<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.101.2205&rep=rep1&type=pdf">[Paper]</a>
 </td></tr></tbody></table>
 
 
