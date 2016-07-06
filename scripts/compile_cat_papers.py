@@ -18,10 +18,11 @@ class Paper():
 
     def ParseCSV(self, line):
       line = str(line)
-      line_proc = line.replace("'", '').replace('[', '').replace(']','').replace(', ', ',')
+      line_proc = line.replace("\"", '').replace("'", '').replace('[', '').replace(']','').replace(', ', ',')
       items = line_proc.split(',')
 
       [self.title, self.year, self.paper, self.project,self.article, ainfo, self.teaser] = items
+ 
       if self.project is not None:
         self.imgurl = self.project
       elif self.paper is not None:
@@ -122,6 +123,7 @@ def ReadPapers(csv_file):
     for row in csv_data:
       paper = Paper()
       paper.ParseCSV(row)
+      print(paper)
 #       print 'add [%s]' % paper.title
       papers.append(paper)
   return papers
