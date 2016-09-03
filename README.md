@@ -431,7 +431,7 @@ In SIGGRAPH 2010<br>
 <td align="left" width=550>Guided Image Filtering<br>
 <a href="http://kaiminghe.com/">Kaiming He</a>, 
 <a href="http://www.jiansun.org/">Jian Sun</a>, 
-https://www.ie.cuhk.edu.hk/people/xotang.shtml<br>
+<a href="https://www.ie.cuhk.edu.hk/people/xotang.shtml">Xiaoou Tang</a><br>
 In ECCV 2010<br>
 <a href="http://kaiminghe.com/publications/eccv10guidedfilter.pdf">[Paper]</a> 
 <a href="http://kaiminghe.com/eccv10/index.html">[Project]</a>
