@@ -427,6 +427,18 @@ In SIGGRAPH 2010<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://kaiminghe.com/eccv10/index.html"><img src="teasers/He2010.jpg"/></a></td>
+<td align="left" width=550>Guided Image Filtering<br>
+<a href="http://kaiminghe.com/">Kaiming He</a>, 
+<a href="http://www.jiansun.org/">Jian Sun</a>, 
+https://www.ie.cuhk.edu.hk/people/xotang.shtml<br>
+In ECCV 2010<br>
+<a href="http://kaiminghe.com/publications/eccv10guidedfilter.pdf">[Paper]</a> 
+<a href="http://kaiminghe.com/eccv10/index.html">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="http://gfx.cs.princeton.edu/pubs/Lipman_2009_MVF/index.php"><img src="teasers/Lipman2009.jpg"/></a></td>
 <td align="left" width=550>Mobius Voting for Surface Correspondence<br>
 <a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman</a>, 
