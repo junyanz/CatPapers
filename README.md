@@ -22,6 +22,19 @@ In SIGGRAPH 2016<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href=""><img src="teasers/Pathak2016.jpg"/></a></td>
+<td align="left" width=550>Learning Features by Watching Objects Move<br>
+<a href="https://people.eecs.berkeley.edu/~pathak/">Deepak Pathak</a>, 
+<a href="http://www.rossgirshick.info/">Ross Girshick</a>, 
+<a href="https://pdollar.github.io/">Piotr Dollar</a>, 
+<a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>, 
+<a href="http://home.bharathh.info/">Bharath Hariharan</a><br>
+In Arxiv 2016<br>
+<a href="https://arxiv.org/abs/1612.06370">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href=""><img src="teasers/Yan2015.jpg"/></a></td>
 <td align="left" width=550>Physically-Accurate Fur Reflectance: Modeling, Measurement and Rendering<br>
 <a href="http://people.eecs.berkeley.edu/~lingqi/">Ling-Qi Yan</a>, 

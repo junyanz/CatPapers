@@ -150,8 +150,8 @@ def WritePapers(papers, header_file=None, end_file=None, TYPE='md'):
 
 
 if __name__ == '__main__':
-  # example usage (markdown):  python compile_cat_papers.py -t md -o ../test
-  # example usage (html):  python compile_cat_papers.py -t html -o ../test
+  # example usage (markdown):  python compile_cat_papers.py -t md -o README
+  # example usage (html):  python compile_cat_papers.py -t html -o cat_papers
   parser = argparse.ArgumentParser(description='Compile cat papers.')
   parser.add_argument('-t', '--type', help='type of output file (md or html)', default='html')
   parser.add_argument('-o', '--output', help='name of the output file')
