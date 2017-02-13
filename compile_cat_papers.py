@@ -161,7 +161,7 @@ if __name__ == '__main__':
   TYPE = args.type  #html, md
   out_file  = '%s.%s' % (args.output, args.type) # output file
   print 'Write %s file <%s>' % (TYPE.upper(), out_file)
-  WORK_DIR = '../data/'
+  WORK_DIR = 'data/'
   # input & output
   header_file = os.path.join(WORK_DIR, 'header.%s' % TYPE)
   end_file = os.path.join(WORK_DIR, 'end.%s' % TYPE)

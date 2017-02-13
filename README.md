@@ -22,6 +22,19 @@ In SIGGRAPH 2016<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/akanazawa/catdeform"><img src="teasers/Kanazawa2016.jpg"/></a></td>
+<td align="left" width=550>Learning 3D Deformation of Animals from 2D Images<br>
+<a href="http://www.umiacs.umd.edu/~kanazawa/">Angjoo Kanazawa</a>, 
+<a href="https://services.math.duke.edu/~shaharko/">Shahar Kovalsky</a>, 
+<a href="http://www.wisdom.weizmann.ac.il/~/ronen/">Ronen Basri</a>, 
+<a href="https://www.cs.umd.edu/~djacobs/">David W. Jacobs</a><br>
+In Eurographics 2016<br>
+<a href="https://arxiv.org/abs/1507.07646">[Paper]</a> 
+<a href="https://github.com/akanazawa/catdeform">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href=""><img src="teasers/Pathak2016.jpg"/></a></td>
 <td align="left" width=550>Learning Features by Watching Objects Move<br>
 <a href="https://people.eecs.berkeley.edu/~pathak/">Deepak Pathak</a>, 
