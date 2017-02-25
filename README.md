@@ -35,6 +35,19 @@ In Eurographics 2016<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/phillipi/pix2pix"><img src="teasers/Isola2016.jpg"/></a></td>
+<td align="left" width=550>Image-to-Image Translation with Conditional Adversarial Networks<br>
+<a href="https://github.com/phillipi">Phillip Isola</a>, 
+<a href="https://people.eecs.berkeley.edu/~junyanz/">Jun-Yan Zhu</a>, 
+<a href="https://people.eecs.berkeley.edu/~tinghuiz/">Tinghui Zhou</a>, 
+<a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a><br>
+In Arxiv 2016<br>
+<a href="https://arxiv.org/abs/1611.07004">[Paper]</a> 
+<a href="https://github.com/phillipi/pix2pix">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href=""><img src="teasers/Pathak2016.jpg"/></a></td>
 <td align="left" width=550>Learning Features by Watching Objects Move<br>
 <a href="https://people.eecs.berkeley.edu/~pathak/">Deepak Pathak</a>, 
