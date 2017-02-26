@@ -22,6 +22,25 @@ In SIGGRAPH 2016<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://irc.cs.sdu.edu.cn/CFS/"><img src="teasers/Zhao2016.jpg"/></a></td>
+<td align="left" width=550>Connected Fermat Spirals for Layered Fabrication<br>
+<a href="http://irc.cs.sdu.edu.cn/~zhaohaisen/">Haisen Zhao</a>, 
+Fanglin Gu, 
+<a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang</a>, 
+J. A. Garcia Galicia, 
+Yong Chenhttp://www-bcf.usc.edu/~yongchen/, 
+<a href="http://www.cs.sdu.edu.cn/zh/~chtu">Changhe Tu</a>, 
+<a href="http://hpcg.purdue.edu/bbenes/index.htm">Bedrich Benes</a>, 
+<a href="http://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, 
+<a href="http://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a>, 
+<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a><br>
+In SIGGRAPH 2016<br>
+<a href="http://irc.cs.sdu.edu.cn/~zhaohaisen/paper/fermat_spirals.pdf">[Paper]</a> 
+<a href="http://irc.cs.sdu.edu.cn/CFS/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/akanazawa/catdeform"><img src="teasers/Kanazawa2016.jpg"/></a></td>
 <td align="left" width=550>Learning 3D Deformation of Animals from 2D Images<br>
 <a href="http://www.umiacs.umd.edu/~kanazawa/">Angjoo Kanazawa</a>, 
@@ -173,6 +192,25 @@ In SIGGRAPH 2014<br>
 In SIGGRAPH 2014<br>
 <a href="http://www.eecs.berkeley.edu/~junyanz/projects/averageExplorer/averageExplorer.pdf">[Paper]</a> 
 <a href="http://www.eecs.berkeley.edu/~junyanz/projects/averageExplorer/index.html">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://sites.google.com/site/build2last43dp/"><img src="teasers/Lu2014.jpg"/></a></td>
+<td align="left" width=550>Build-to-Last: Strength to Weight 3D Printed Objects<br>
+<a href="http://vr.sdu.edu.cn/~lulin/">Lin Lu</a>, 
+<a href="http://www.cs.bgu.ac.il/~asharf/">Andrei Sharf</a>, 
+<a href="http://irc.cs.sdu.edu.cn/~zhaohaisen/">Haisen Zhao</a>, 
+Yuan Wei, 
+Qingnan Fan, 
+Xuelin Chen, 
+<a href="http://www.animlife.com/">Yann Savoye</a>, 
+<a href="http://www.cs.sdu.edu.cn/zh/60">Changhe Tu</a>, 
+<a href="http://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a>, 
+<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a><br>
+In SIGGRAPH 2014<br>
+<a href="https://www.cs.tau.ac.il/~dcor/articles/2014/Build-to-Last.pdf">[Paper]</a> 
+<a href="https://sites.google.com/site/build2last43dp/">[Project]</a>
 </td></tr></tbody></table>
 
 
