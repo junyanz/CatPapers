@@ -28,7 +28,7 @@ In SIGGRAPH 2016<br>
 Fanglin Gu, 
 <a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang</a>, 
 J. A. Garcia Galicia, 
-Yong Chenhttp://www-bcf.usc.edu/~yongchen/, 
+<a href="http://www-bcf.usc.edu/~yongchen/">Yong Chen</a>, 
 <a href="http://www.cs.sdu.edu.cn/zh/~chtu">Changhe Tu</a>, 
 <a href="http://hpcg.purdue.edu/bbenes/index.htm">Bedrich Benes</a>, 
 <a href="http://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, 
