@@ -23,9 +23,9 @@ class Paper():
 
       [self.title, self.year, self.paper, self.project,self.article, ainfo, self.teaser] = items
  
-      if self.project is not None:
+      if self.project:
         self.imgurl = self.project
-      elif self.paper is not None:
+      elif self.paper:
         self.imgurl = self.paper
       else:
         print 'ERROR: no paper/project'
@@ -64,6 +64,7 @@ class Paper():
       tmp += '[Year]: %d\n' % self.year
       tmp += '[Paper]: %s\n' % self.paper
       tmp += '[Project]: %s\n' % self.project
+      tmp += '[URL]: %s\n' % self.imgurl
       tmp += 'In %s\n' % self.article
       tmp += '[Teaser]: %s\n' % self.teaser
       for i, (author, url) in enumerate(zip(self.authors, self.author_urls)):

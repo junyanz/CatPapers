@@ -11,7 +11,17 @@ See also [[Webpage]](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.htm
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Campen2016.jpg"/></a></td>
+<a href="http://www.pgbovine.net/publications/CodePilot-collaborative-programming-IDE_CHI-2017.pdf"><img src="teasers/Warner2017.jpg"/></a></td>
+<td align="left" width=550>CodePilot: Scaffolding End-to-End Collaborative Software Development for Novice Programmers<br>
+<a href="https://jeremywrnr.com/">Jeremy Warner</a>, 
+<a href="http://www.pgbovine.net/index.html">Philip J. Guo</a><br>
+In CHI 2017<br>
+<a href="http://www.pgbovine.net/publications/CodePilot-collaborative-programming-IDE_CHI-2017.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://www.graphics.rwth-aachen.de/media/papers/Campen2016_SimplicialFoliations.pdf"><img src="teasers/Campen2016.jpg"/></a></td>
 <td align="left" width=550>Bijective Maps from Simplicial Foliations<br>
 <a href="https://www.graphics.rwth-aachen.de/person/7/">Marcel Campen</a>, 
 <a href="http://vgc.poly.edu/~csilva/">Claudio T. Silva</a>, 
@@ -67,7 +77,7 @@ In Arxiv 2016<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Pathak2016.jpg"/></a></td>
+<a href="https://arxiv.org/abs/1612.06370"><img src="teasers/Pathak2016.jpg"/></a></td>
 <td align="left" width=550>Learning Features by Watching Objects Move<br>
 <a href="https://people.eecs.berkeley.edu/~pathak/">Deepak Pathak</a>, 
 <a href="http://www.rossgirshick.info/">Ross Girshick</a>, 
@@ -80,7 +90,7 @@ In Arxiv 2016<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Yan2015.jpg"/></a></td>
+<a href="http://people.eecs.berkeley.edu/~lingqi/publications/paper_fur.pdf"><img src="teasers/Yan2015.jpg"/></a></td>
 <td align="left" width=550>Physically-Accurate Fur Reflectance: Modeling, Measurement and Rendering<br>
 <a href="http://people.eecs.berkeley.edu/~lingqi/">Ling-Qi Yan</a>, 
 <a href="http://cseweb.ucsd.edu/~c5tseng/">Chi-Wei Tseng</a>, 
@@ -105,7 +115,7 @@ In SIGGRAPH 2015<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Solomon2015.jpg"/></a></td>
+<a href="http://people.csail.mit.edu/jsolomon/assets/convolutional_w2.compressed.pdf"><img src="teasers/Solomon2015.jpg"/></a></td>
 <td align="left" width=550>Convolutional Wasserstein Distances: Efficient Optimal Transportation on Geometric Domains<br>
 <a href="http://people.csail.mit.edu/jsolomon/">Justin Solomon</a>, 
 <a href="http://fernandodegoes.org/">Fernando de Goes</a>, 
@@ -133,7 +143,7 @@ In ICCV 2015<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Long2015.jpg"/></a></td>
+<a href="http://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf"><img src="teasers/Long2015.jpg"/></a></td>
 <td align="left" width=550>Fully Convolutional Networks for Semantic Segmentation<br>
 <a href="http://people.eecs.berkeley.edu/~jonlong/">Jon Long</a>, 
 <a href="http://imaginarynumber.net/">Evan Shelhamer</a>, 
@@ -291,7 +301,7 @@ In SIGGRAPH 2013<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Caturana2013.jpg"/></a></td>
+<a href="http://www.oneweirdkerneltrick.com/catbasis.pdf"><img src="teasers/Caturana2013.jpg"/></a></td>
 <td align="left" width=550>Cat Basis Purrsuit<br>
 <a href="http://dimatura.net/">Daniel Caturana</a>, 
 <a href="http://www.cs.cmu.edu/~dfouhey/">David Furry</a><br>
@@ -301,7 +311,7 @@ In SIGBOVIK 2013<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Karsch2013.jpg"/></a></td>
+<a href="http://www.cs.berkeley.edu/~barron/KarschCVPR2013.pdf"><img src="teasers/Karsch2013.jpg"/></a></td>
 <td align="left" width=550>Boundary Cues for 3D Object Shape Recovery<br>
 <a href="http://kevinkarsch.com/">Kevin Karsch</a>, 
 <a href="http://web.engr.illinois.edu/~liao17/">Zicheng Liao</a>, 
@@ -338,7 +348,7 @@ In SIGGRAPH Asia 2012<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Chen2012.jpg"/></a></td>
+<a href="http://www.cs.sfu.ca/~pingtan/Papers/sigasia12.pdf"><img src="teasers/Chen2012.jpg"/></a></td>
 <td align="left" width=550>Manifold Preserving Edit Propagation<br>
 <a href="http://arts.buaa.edu.cn/staff/chen/index.htm">Xiaowu Chen</a>, 
 Dongqing Zou, 
@@ -350,7 +360,7 @@ In SIGGRAPH Asia 2012<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Ovsjanikov2012.jpg"/></a></td>
+<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.3850&rep=rep1&type=pdf"><img src="teasers/Ovsjanikov2012.jpg"/></a></td>
 <td align="left" width=550>Functional Maps: A Flexible Representation of Maps Between Shapes<br>
 <a href="http://www.lix.polytechnique.fr/~maks/">Maks Ovsjanikov</a>, 
 <a href="http://mirela.net.technion.ac.il/">Mirela Ben-Chen</a>, 
@@ -393,7 +403,7 @@ In CVPR 2012<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Dai2012.jpg"/></a></td>
+<a href="http://web.engr.illinois.edu/~dhoiem/publications/cvpr2012_objectsegmentation_qieyun.pdf"><img src="teasers/Dai2012.jpg"/></a></td>
 <td align="left" width=550>Learning to Localize Detected Objects<br>
 <a href="http://web.engr.illinois.edu/~dai9/">Qieyun Dai</a>, 
 <a href="http://web.engr.illinois.edu/~dhoiem/">Derek Hoiem</a><br>
@@ -428,7 +438,7 @@ In SIGGRAPH  2011<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Kim2011.jpg"/></a></td>
+<a href="http://www.cs.princeton.edu/~funk/sig11.pdf"><img src="teasers/Kim2011.jpg"/></a></td>
 <td align="left" width=550>Blended Intrinsic Maps<br>
 <a href="http://vovakim.com/">Vladimir G. Kim</a>, 
 <a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman</a>, 
@@ -628,7 +638,7 @@ In SIGGRAPH 2007<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Shi2007.jpg"/></a></td>
+<a href="http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8E1AD9DB3F200954341D4C96A1F9C9E1?doi=10.1.1.152.7336&rep=rep1&type=pdf"><img src="teasers/Shi2007.jpg"/></a></td>
 <td align="left" width=550>Mesh Puppetry: Cascading Optimization of Mesh Deformation with Inverse Kinematics<br>
 <a href="https://sites.google.com/site/royitaqi/">Xiaohan Shi</a>, 
 <a href="http://www.kunzhou.net/">Kun Zhou</a>, 
@@ -680,7 +690,7 @@ In SIGGRAPH 2006<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Zhang2006.jpg"/></a></td>
+<a href="http://www.math.rutgers.edu/~mischaik/papers/vecflddesn.pdf"><img src="teasers/Zhang2006.jpg"/></a></td>
 <td align="left" width=550>Vector Field Design on Surfaces<br>
 <a href="http://web.engr.oregonstate.edu/~zhange/">Eugene Zhang</a>, 
 <a href="https://www.math.rutgers.edu/~mischaik/">Konstantin Mischaikow</a>, 
@@ -691,7 +701,7 @@ In ACM Transactions on Graphics (TOG) 2006<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Kharevych2006.jpg"/></a></td>
+<a href="http://www.cs.jhu.edu/~misha/Fall09/Kharevych06.pdf"><img src="teasers/Kharevych2006.jpg"/></a></td>
 <td align="left" width=550>Discrete conformal mappings via circle patterns<br>
 Liliya Kharevych, 
 <a href="http://page.math.tu-berlin.de/~springb/">Boris Springborn</a>, 
@@ -702,7 +712,7 @@ In ACM Transactions on Graphics 2006<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Zhou2005.jpg"/></a></td>
+<a href="https://www.microsoft.com/en-us/research/publication/large-mesh-deformation-using-the-volumetric-graph-laplacian/"><img src="teasers/Zhou2005.jpg"/></a></td>
 <td align="left" width=550>Large mesh deformation using the volumetric graph Laplacian<br>
 <a href="http://www.kunzhou.net/">Kun Zhou</a>, 
 <a href="http://www.cad.zju.edu.cn/home/hj/index.xml">Jin Huang</a>, 
@@ -717,7 +727,7 @@ In SIGGRAPH 2005<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Zhou2005b.jpg"/></a></td>
+<a href="http://kunzhou.net/publications/texturemontage.pdf"><img src="teasers/Zhou2005b.jpg"/></a></td>
 <td align="left" width=550>TextureMontage: Seamless Texturing of Arbitrary Surfaces From Multiple Images<br>
 <a href="http://www.kunzhou.net/">Kun Zhou</a>, 
 Xi Wang, 
@@ -768,7 +778,7 @@ In SIGGRAPH 2002<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Zhang2002.jpg"/></a></td>
+<a href="http://dl.acm.org/citation.cfm?id=566602"><img src="teasers/Zhang2002.jpg"/></a></td>
 <td align="left" width=550>Feature-based light field morphing<br>
 Zhunping Zhang, 
  Lifeng Wang, 
@@ -780,7 +790,7 @@ In SIGGRAPH 2002<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Tong2002.jpg"/></a></td>
+<a href="http://www.msr-waypoint.com/en-us/um/people/xtong/BTFSynthesis.pdf"><img src="teasers/Tong2002.jpg"/></a></td>
 <td align="left" width=550>Synthesis of Bidirectional Texture Functions on Arbitrary Surfaces<br>
 <a href="http://research.microsoft.com/en-us/um/people/xtong/xtong.html">Xin Tong</a>, 
 Jingdan Zhang, 
@@ -794,7 +804,7 @@ In SIGGRAPH 2002<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Sheffer2002.jpg"/></a></td>
+<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.101.2205&rep=rep1&type=pdf"><img src="teasers/Sheffer2002.jpg"/></a></td>
 <td align="left" width=550>Smoothing an Overlay Grid to Minimize Linear Distortion in Texture Mapping<br>
 <a href="http://www.cs.ubc.ca/~sheffa/">Alla Sheffer</a>, 
 <a href="http://www.math.vt.edu/people/sturler/">Eric de Sturler</a><br>
@@ -815,7 +825,7 @@ In SIGGRAPH 2001<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Lengyel2001.jpg"/></a></td>
+<a href="http://people.csail.mit.edu/ericchan/bib/pdf/p227-lengyel.pdf"><img src="teasers/Lengyel2001.jpg"/></a></td>
 <td align="left" width=550>Real-Time Fur over Arbitrary Surfaces<br>
 Jerome E. Lengyel, 
 <a href="http://www.cs.utah.edu/~emilp/">Emil Praun</a>, 
@@ -838,7 +848,7 @@ In SIGGRAPH 2001<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Geist1993.jpg"/></a></td>
+<a href="http://dl.acm.org/citation.cfm?id=151281"><img src="teasers/Geist1993.jpg"/></a></td>
 <td align="left" width=550>A Markovian framework for digital halftoning<br>
 <a href="https://people.cs.clemson.edu/~geist/homepage.html">Robert Geist</a>, 
 Robert Reynolds, 
@@ -849,7 +859,7 @@ In ACM Transactions on Graphics (TOG) 1993<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href=""><img src="teasers/Attneave1954.jpg"/></a></td>
+<a href="http://web.mit.edu/persci/classes/papers/Attneave54.pdf"><img src="teasers/Attneave1954.jpg"/></a></td>
 <td align="left" width=550>Some informational aspects of visual perception<br>
 <a href="http://psycnet.apa.org/index.cfm?fa=buy.optionToBuy&id=1994-31267-001">Fred Attneave</a><br>
 In Psychological Review 1954<br>
