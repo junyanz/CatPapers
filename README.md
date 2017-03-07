@@ -11,12 +11,13 @@ See also [[Webpage]](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.htm
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="http://www.pgbovine.net/publications/CodePilot-collaborative-programming-IDE_CHI-2017.pdf"><img src="teasers/Warner2017.jpg"/></a></td>
+<a href="https://jeremywrnr.com/project/codepilot/"><img src="teasers/Warner2017.jpg"/></a></td>
 <td align="left" width=550>CodePilot: Scaffolding End-to-End Collaborative Software Development for Novice Programmers<br>
 <a href="https://jeremywrnr.com/">Jeremy Warner</a>, 
 <a href="http://www.pgbovine.net/index.html">Philip J. Guo</a><br>
 In CHI 2017<br>
 <a href="http://www.pgbovine.net/publications/CodePilot-collaborative-programming-IDE_CHI-2017.pdf">[Paper]</a> 
+<a href="https://jeremywrnr.com/project/codepilot/">[Project]</a>
 </td></tr></tbody></table>
 
 
