@@ -22,6 +22,18 @@ In CHI 2017<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://joseph.nlpweb.org/blog/2017/05/06/CHI-revolt/"><img src="teasers/Chang2017.jpg"/></a></td>
+<td align="left" width=550>Collaborative Crowdsourcing for Labeling Machine Learning Datasets<br>
+<a href="http://joseph.nlpweb.org/">Joseph Chee Chang</a>, 
+<a href="http://saleemaamershi.com/">Saleema Amershi</a>, 
+<a href="https://www.ecekamar.com/">Ece Kamar</a><br>
+In CHI 2017<br>
+<a href="http://joseph.nlpweb.org/images/papers/revolt-crowd-labeling.pdf">[Paper]</a> 
+<a href="http://joseph.nlpweb.org/blog/2017/05/06/CHI-revolt/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://www.graphics.rwth-aachen.de/media/papers/Campen2016_SimplicialFoliations.pdf"><img src="teasers/Campen2016.jpg"/></a></td>
 <td align="left" width=550>Bijective Maps from Simplicial Foliations<br>
 <a href="https://www.graphics.rwth-aachen.de/person/7/">Marcel Campen</a>, 
