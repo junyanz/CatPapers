@@ -99,6 +99,18 @@ In Eurographics 2016<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/pdf/1608.04366.pdf"><img src="teasers/Wu2016.jpg"/></a></td>
+<td align="left" width=550>Infill Optimization for Additive Manufacturing--Approaching Bone-like Porous Structures<br>
+<a href="https://wwwcg.in.tum.de/group/persons/wu.html">Jun Wu</a>, 
+<a href="http://www.dtu.dk/english/service/phonebook/person?id=18078&tab=2&qt=dtupublicationquery">Niels Aage</a>, 
+<a href="https://wwwcg.in.tum.de/group/persons/westermann.html">R&#252diger Westermann</a>, 
+<a href="http://www.dtu.dk/english/service/phonebook/person?id=2278&tab=1">Ole Sigmund</a><br>
+In Arxiv 2016<br>
+<a href="https://arxiv.org/pdf/1608.04366.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://arxiv.org/abs/1612.06370"><img src="teasers/Pathak2016.jpg"/></a></td>
 <td align="left" width=550>Learning Features by Watching Objects Move<br>
 <a href="https://people.eecs.berkeley.edu/~pathak/">Deepak Pathak</a>, 
@@ -126,7 +138,7 @@ In SIGGRAPH Asia 2015<br>
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="https://members.loria.fr/JDumas/publications/sfsyn/"><img src="teasers/Dumas2015.jpg"/></a></td>
 <td align="left" width=550>By-Example Synthesis of Structurally Sound Patterns<br>
-<a href="https://members.loria.fr/JDumas/">J\xc3\xa9r\xc3\xa9mie Dumas</a>, 
+<a href="https://members.loria.fr/JDumas/">J&#233r&#233mie Dumas</a>, 
 An Lu, 
 <a href="http://www.antexel.com/sylefeb/research">Sylvain Lefebvre</a>, 
 <a href="https://wwwcg.in.tum.de/group/persons/wu.html">Jun Wu</a>, 
@@ -163,6 +175,18 @@ Tao Du,
 <a href="http://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a><br>
 In SIGGRAPH 2015<br>
 <a href="http://people.csail.mit.edu/jsolomon/assets/convolutional_w2.compressed.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://wwwcg.in.tum.de/research/research/publications/2015/high-resolution-topology-optimization.html"><img src="teasers/Wu2015.jpg"/></a></td>
+<td align="left" width=550>A System for High-Resolution Topology Optimization<br>
+<a href="https://wwwcg.in.tum.de/group/persons/wu.html">Jun Wu</a>, 
+<a href="https://wwwcg.in.tum.de/group/persons/dick.html">Christian Dick</a>, 
+<a href="https://wwwcg.in.tum.de/group/persons/westermann.html">R&#252diger Westermann</a><br>
+In IEEE Transactions on Visualization and Computer Graphics 2015<br>
+<a href="http://wwwcg.in.tum.de/fileadmin/user_upload/Lehrstuehle/Lehrstuhl_XV/Research/Publications/2015/TopOpt/preprint.pdf">[Paper]</a> 
+<a href="http://wwwcg.in.tum.de/research/research/publications/2015/high-resolution-topology-optimization.html">[Project]</a>
 </td></tr></tbody></table>
 
 
