@@ -10,6 +10,31 @@ See also [[Webpage]](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.htm
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://people.eecs.berkeley.edu/~lingqi/publications/paper_fur2.pdf"><img src="teasers/Yan2017.jpg"/></a></td>
+<td align="left" width=550>An Efficient and Practical Near and Far Field Fur Reflectance Model<br>
+<a href="https://people.eecs.berkeley.edu/~lingqi/">Ling-Qi Yan</a>, 
+<a href="graphics.ucsd.edu/~henrik/">Henrik Wann Jensen</a>, 
+<a href="http://cseweb.ucsd.edu/~ravir/">Ravi Ramamoorthi</a><br>
+In SIGGRAPH 2017<br>
+<a href="https://people.eecs.berkeley.edu/~lingqi/publications/paper_fur2.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG17/lfv/"><img src="teasers/Wang2017.jpg"/></a></td>
+<td align="left" width=550>Light Field Video Capture Using a Learning-Based Hybrid Imaging System<br>
+<a href="https://people.eecs.berkeley.edu/~tcwang0509/">Ting-Chun Wang</a>, 
+<a href="https://people.eecs.berkeley.edu/~junyanz/">Jun-Yan Zhu</a>, 
+<a href="http://nkhademi.com/">Nima Khademi Kalantari</a>, 
+<a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a>, 
+<a href="http://cseweb.ucsd.edu/~ravir/">Ravi Ramamoorthi</a><br>
+In SIGGRAPH 2017<br>
+<a href="https://arxiv.org/abs/1705.02997">[Paper]</a> 
+<a href="http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG17/lfv/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/phillipi/pix2pix"><img src="teasers/Isola2017.jpg"/></a></td>
 <td align="left" width=550>Image-to-Image Translation with Conditional Adversarial Networks<br>
 <a href="https://github.com/phillipi">Phillip Isola</a>, 
