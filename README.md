@@ -10,6 +10,16 @@ See also [[Webpage]](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.htm
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://www.robots.ox.ac.uk/~vedaldi//assets/pubs/thewlis17unsupervised.pdf"><img src="teasers/Thewlis2017.png"/></a></td>
+<td align="left" width=550>Unsupervised learning of object landmarks by factorized spatial embeddings<br>
+<a href="http://www.robots.ox.ac.uk/~jdt/">James Thewlis</a>, 
+<a href="http://homepages.inf.ed.ac.uk/hbilen/">Hakan Bilen</a>, 
+<a href="http://www.robots.ox.ac.uk/~vedaldi/">Andrea Vedaldi</a><br>
+In ICCV 2017<br>
+<a href="http://www.robots.ox.ac.uk/~vedaldi//assets/pubs/thewlis17unsupervised.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://people.eecs.berkeley.edu/~lingqi/publications/paper_fur2.pdf"><img src="teasers/Yan2017.jpg"/></a></td>
 <td align="left" width=550>An Efficient and Practical Near and Far Field Fur Reflectance Model<br>
 <a href="https://people.eecs.berkeley.edu/~lingqi/">Ling-Qi Yan</a>, 
