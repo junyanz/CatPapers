@@ -45,10 +45,10 @@ In SIGGRAPH 2017<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="https://junyanz.github.io/CycleGAN/"><img src="teasers/Zhu2017.jpg"/></a></td>
+<a href="https://junyanz.github.io/CycleGAN/"><img src="teasers/Zhu*2017.jpg"/></a></td>
 <td align="left" width=550>Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks<br>
-<a href="http://people.eecs.berkeley.edu/~junyanz/">Jun-Yan Zhu</a>, 
-<a href="https://taesung.me/">Taesung Park</a>, 
+<a href="http://people.eecs.berkeley.edu/~junyanz/">Jun-Yan Zhu*</a>, 
+<a href="https://taesung.me/">Taesung Park*</a>, 
 <a href="http://people.eecs.berkeley.edu/~isola/">Phillip Isola</a>, 
 <a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a><br>
 In ICCV 2017<br>
