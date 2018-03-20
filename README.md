@@ -10,14 +10,14 @@ See also [[Webpage]](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.htm
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="http://www.robots.ox.ac.uk/~vedaldi//assets/pubs/thewlis17unsupervised.pdf"><img src="teasers/Thewlis2017.png"/></a></td>
-<td align="left" width=550>Unsupervised learning of object landmarks by factorized spatial embeddings<br>
-<a href="http://www.robots.ox.ac.uk/~jdt/">James Thewlis</a>, 
-<a href="http://homepages.inf.ed.ac.uk/hbilen/">Hakan Bilen</a>, 
-<a href="http://www.robots.ox.ac.uk/~vedaldi/">Andrea Vedaldi</a><br>
-In ICCV 2017<br>
-<a href="http://www.robots.ox.ac.uk/~vedaldi//assets/pubs/thewlis17unsupervised.pdf">[Paper]</a> 
+<a href="https://arxiv.org/abs/1704.03477"><img src="teasers/Ha2018.jpg"/></a></td>
+<td align="left" width=550>A Neural Representation of Sketch Drawings<br>
+<a href="https://research.google.com/pubs/105004.html">David Ha</a>, 
+<a href="https://research.google.com/pubs/author39086.html">Douglas Eck</a><br>
+In ICLR 2018<br>
+<a href="https://arxiv.org/abs/1704.03477">[Paper]</a> 
 </td></tr></tbody></table>
+
 
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="https://people.eecs.berkeley.edu/~lingqi/publications/paper_fur2.pdf"><img src="teasers/Yan2017.jpg"/></a></td>
@@ -41,6 +41,19 @@ In SIGGRAPH 2017<br>
 In SIGGRAPH 2017<br>
 <a href="https://arxiv.org/abs/1705.02997">[Paper]</a> 
 <a href="http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG17/lfv/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://junyanz.github.io/CycleGAN/"><img src="teasers/Zhu2017.jpg"/></a></td>
+<td align="left" width=550>Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks<br>
+<a href="http://people.eecs.berkeley.edu/~junyanz/">Jun-Yan Zhu</a>, 
+<a href="https://taesung.me/">Taesung Park</a>, 
+<a href="http://people.eecs.berkeley.edu/~isola/">Phillip Isola</a>, 
+<a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a><br>
+In ICCV 2017<br>
+<a href="https://arxiv.org/abs/1703.10593">[Paper]</a> 
+<a href="https://junyanz.github.io/CycleGAN/">[Project]</a>
 </td></tr></tbody></table>
 
 
@@ -77,16 +90,6 @@ In CHI 2017<br>
 In CHI 2017<br>
 <a href="http://joseph.nlpweb.org/images/papers/revolt-crowd-labeling.pdf">[Paper]</a> 
 <a href="http://joseph.nlpweb.org/blog/2017/05/06/CHI-revolt/">[Project]</a>
-</td></tr></tbody></table>
-
-
-<table> <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/pdf/1704.03477.pdf"><img src="teasers/Ha2017.jpg"/></a></td>
-<td align="left" width=550>A Neural Representation of Sketch Drawings<br>
-<a href="https://research.google.com/pubs/105004.html">David Ha</a>, 
-<a href="https://research.google.com/pubs/author39086.html">Douglas Eck</a><br>
-In Arxiv 2017<br>
-<a href="https://arxiv.org/pdf/1704.03477.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
 
