@@ -528,7 +528,7 @@ In SIGGRAPH Asia 2011<br>
 <td align="left" width=550>Nonlinear Revision Control for Images<br>
 <a href="http://www.ht-timchen.com/">Hsiang-Ting Chen</a>, 
 <a href="http://www.liyiwei.org/">Li-Yi Wei</a>, 
-<a href="https://cchang.wordpress.com/\r\n">Chun-Fa Chang</a><br>
+<a href="https://cchang.wordpress.com/\n">Chun-Fa Chang</a><br>
 In SIGGRAPH  2011<br>
 <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.465.986&rep=rep1&type=pdf">[Paper]</a> 
 <a href="https://www.microsoft.com/en-us/research/publication/nonlinear-revision-control-for-images/">[Project]</a>
@@ -966,5 +966,8 @@ In Psychological Review 1954<br>
 
 
 
+<br>
+
+Last updated in Jun 2018
 <br>
 
