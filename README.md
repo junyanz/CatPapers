@@ -1,11 +1,11 @@
 ## Cat Paper Collection
 
-As reported by Cisco, 90% of net traffic will be visual, and indeed, most of the visual data are cat photos and videos. Thus, understanding, modeling and synthesizing our feline friends becomes a more and more important research problem these days, especially for our cat lovers.
+As reported by Cisco, 90% of net traffic will be visual, and indeed, most of the visual data are cat photos and videos. Thus, understanding, modeling, and synthesizing our feline friends becomes a more and more critical research problem these days, especially for our cat lovers.
 
-**Cat Paper Collection** is an academic paper collection that includes computer graphics, computer vision, machine learning and human-computer interaction papers that produce experimental results related to **cats**. If you want to add/remove a paper, please send an email to [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/) (junyanz at berkeley dot edu).
+**Cat Paper Collection** is an academic paper collection that includes computer graphics, computer vision, machine learning, and HCI papers that produce experimental results related to **cats**. If you want to add/remove an article, please send an email to [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/) (junyanz at berkeley dot edu).
 
 
-See also [[Webpage]](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)  [[CSV file]](https://github.com/junyanz/CatPapers/blob/master/data/reference.csv)
+See also [Webpage](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.html) | [CSV file](https://github.com/junyanz/CatPapers/blob/master/data/reference.csv)
 
 <br>
 
@@ -732,6 +732,16 @@ In SIGGRAPH 2008<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://cis.jhu.edu/publications/papers_in_database/GEMAN/Fleuret-Geman_Cats_07.pdf"><img src="teasers/Fleuret2008.jpg"/></a></td>
+<td align="left" width=550>Stationary Features and Cat Detection<br>
+<a href="https://www.idiap.ch/~fleuret/">Fran&ccedilois Fleuret</a>, 
+<a href="http://www.cis.jhu.edu/people/faculty/geman/">Donald Geman</a><br>
+In JMLR 2008<br>
+<a href="http://cis.jhu.edu/publications/papers_in_database/GEMAN/Fleuret-Geman_Cats_07.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="http://137.189.35.203/WebUI/CatDatabase/catData.html"><img src="teasers/Zhang2008.jpg"/></a></td>
 <td align="left" width=550>Cat Head Detection - How to Effectively Exploit Shape and Texture Features<br>
 Weiwei Zhang, 
@@ -1000,6 +1010,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in Aug 2018
+Last updated in Sep 2018
 <br>
 
