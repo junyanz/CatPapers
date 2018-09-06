@@ -103,6 +103,19 @@ In CVPR 2017<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/1612.06370"><img src="teasers/Pathak2017.jpg"/></a></td>
+<td align="left" width=550>Learning Features by Watching Objects Move<br>
+<a href="https://people.eecs.berkeley.edu/~pathak/">Deepak Pathak</a>, 
+<a href="http://www.rossgirshick.info/">Ross Girshick</a>, 
+<a href="https://pdollar.github.io/">Piotr Dollar</a>, 
+<a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>, 
+<a href="http://home.bharathh.info/">Bharath Hariharan</a><br>
+In CVPR 2017<br>
+<a href="https://arxiv.org/abs/1612.06370">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://jeremywrnr.com/project/codepilot/"><img src="teasers/Warner2017.jpg"/></a></td>
 <td align="left" width=550>CodePilot: Scaffolding End-to-End Collaborative Software Development for Novice Programmers<br>
 <a href="https://jeremywrnr.com/">Jeremy Warner</a>, 
@@ -177,19 +190,6 @@ In Eurographics 2016<br>
 <a href="http://www.dtu.dk/english/service/phonebook/person?id=2278&tab=1">Ole Sigmund</a><br>
 In Arxiv 2016<br>
 <a href="https://arxiv.org/pdf/1608.04366.pdf">[Paper]</a> 
-</td></tr></tbody></table>
-
-
-<table> <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/abs/1612.06370"><img src="teasers/Pathak2016.jpg"/></a></td>
-<td align="left" width=550>Learning Features by Watching Objects Move<br>
-<a href="https://people.eecs.berkeley.edu/~pathak/">Deepak Pathak</a>, 
-<a href="http://www.rossgirshick.info/">Ross Girshick</a>, 
-<a href="https://pdollar.github.io/">Piotr Dollar</a>, 
-<a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>, 
-<a href="http://home.bharathh.info/">Bharath Hariharan</a><br>
-In Arxiv 2016<br>
-<a href="https://arxiv.org/abs/1612.06370">[Paper]</a> 
 </td></tr></tbody></table>
 
 
@@ -280,6 +280,19 @@ In ICCV 2015<br>
 <a href="http://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a><br>
 In CVPR 2015<br>
 <a href="http://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://visual.cs.ucl.ac.uk/pubs/ccca/"><img src="teasers/Turmukhambetov2015.jpg"/></a></td>
+<td align="left" width=550>Modeling Object Appearance using Context-Conditioned Component Analysis<br>
+<a href="http://www.cs.ucl.ac.uk/staff/dturmukh/">Daniyar Turmukhambetov</a>, 
+<a href="http://cs.bath.ac.uk/~nc537/">Neill D.F. Campbell</a>, 
+<a href="http://www.cs.ucl.ac.uk/staff/s.prince/">Simon J.D. Prince</a>, 
+<a href="http://www.cs.ucl.ac.uk/staff/s.prince/">Jan Kautz</a><br>
+In CVPR 2015<br>
+<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Turmukhambetov_Modeling_Object_Appearance_2015_CVPR_paper.pdf">[Paper]</a> 
+<a href="http://visual.cs.ucl.ac.uk/pubs/ccca/">[Project]</a>
 </td></tr></tbody></table>
 
 
