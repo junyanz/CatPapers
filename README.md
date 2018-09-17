@@ -42,6 +42,18 @@ In SIGGRAPH 2018<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://people.csail.mit.edu/jsolomon/assets/curve_fmaps.pdf"><img src="teasers/Gehre2018.jpg"/></a></td>
+<td align="left" width=550>Interactive Curve Constrained Functional Maps<br>
+<a href="https://www.graphics.rwth-aachen.de/person/33/">Anne Gehre</a>, 
+<a href="https://www.radcliffe.harvard.edu/people/michael-bronstein">Michael Bronstein</a>, 
+<a href="https://www.graphics.rwth-aachen.de/person/3/">Leif Kobbelt</a>, 
+<a href="http://people.csail.mit.edu/jsolomon/">Justin Solomon</a><br>
+In SGP 2018<br>
+<a href="https://people.csail.mit.edu/jsolomon/assets/curve_fmaps.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://arxiv.org/abs/1704.03477"><img src="teasers/Ha2018.jpg"/></a></td>
 <td align="left" width=550>A Neural Representation of Sketch Drawings<br>
 <a href="https://research.google.com/pubs/105004.html">David Ha</a>, 
