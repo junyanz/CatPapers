@@ -64,6 +64,33 @@ In ICLR 2018<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/brownvc/ganimorph/"><img src="teasers/Gokaslan2018.jpg"/></a></td>
+<td align="left" width=550>Improving Shape Deformation in Unsupervised Image-to-Image Translation<br>
+<a href="https://skylion007.github.io/">Aaron Gokaslan</a>, 
+<a href="http://vivekr.me/">Vivek Ramanujan</a>, 
+<a href="https://dritchie.github.io/">Daniel Ritchie</a>, 
+<a href="https://researchportal.bath.ac.uk/en/persons/kwang-in-kim/">Kwang In Kim</a>, 
+<a href="http://jamestompkin.com/">James Tompkin</a><br>
+In ECCV 2018<br>
+<a href="https://arxiv.org/pdf/1808.04325.pdf">[Paper]</a> 
+<a href="https://github.com/brownvc/ganimorph/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/NVlabs/MUNIT"><img src="teasers/Huang2018.jpg"/></a></td>
+<td align="left" width=550>Multimodal UNsupervised Image-to-image Translation<br>
+<a href="http://www.cs.cornell.edu/~xhuang/">Xun Huang</a>, 
+<a href="http://mingyuliu.net/">Ming-Yu Liu</a>, 
+<a href="https://vision.cornell.edu/se3/people/serge-belongie/">Serge Belongie</a>, 
+<a href="http://jankautz.com/">Jan Kautz</a><br>
+In ECCV 2018<br>
+<a href="https://arxiv.org/pdf/1804.04732.pdf">[Paper]</a> 
+<a href="https://github.com/NVlabs/MUNIT">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://people.eecs.berkeley.edu/~lingqi/publications/paper_fur2.pdf"><img src="teasers/Yan2017.jpg"/></a></td>
 <td align="left" width=550>An Efficient and Practical Near and Far Field Fur Reflectance Model<br>
 <a href="https://people.eecs.berkeley.edu/~lingqi/">Ling-Qi Yan</a>, 
@@ -85,6 +112,18 @@ In SIGGRAPH 2017<br>
 In SIGGRAPH 2017<br>
 <a href="https://arxiv.org/abs/1705.02997">[Paper]</a> 
 <a href="http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG17/lfv/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/mingyuliutw/UNIT"><img src="teasers/Liu2017.jpg"/></a></td>
+<td align="left" width=550>Unsupervised Image-to-Image Translation Networks<br>
+<a href="http://mingyuliu.net/">Ming-Yu Liu</a>, 
+<a href="http://www.iupr.com/tmb">Thomas Breuel</a>, 
+<a href="http://jankautz.com/">Jan Kautz</a><br>
+In NIPS 2017<br>
+<a href="https://arxiv.org/pdf/1703.00848.pdf">[Paper]</a> 
+<a href="https://github.com/mingyuliutw/UNIT">[Project]</a>
 </td></tr></tbody></table>
 
 
