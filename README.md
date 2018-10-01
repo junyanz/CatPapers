@@ -10,6 +10,16 @@ See also [Webpage](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/AlexiaJM/RelativisticGAN"><img src="teasers/Jolicoeur-Martineau2018.jpg"/></a></td>
+<td align="left" width=550>The relativistic discriminator: a key element missing from standard GAN<br>
+<a href="https://ajolicoeur.wordpress.com/">Alexia Jolicoeur-Martineau</a><br>
+In arXiv 2018<br>
+<a href="https://arxiv.org/pdf/1807.00734.pdf">[Paper]</a> 
+<a href="https://github.com/AlexiaJM/RelativisticGAN">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="http://irc.cs.sdu.edu.cn/DSCarver/"><img src="teasers/Zhao2018.jpg"/></a></td>
 <td align="left" width=550>DSCarver: Decompose-and-Spiral-Carve for Subtractive Manufacturing<br>
 <a href="http://irc.cs.sdu.edu.cn/~zhaohaisen/">Haisen Zhao</a>, 
