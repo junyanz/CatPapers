@@ -166,6 +166,17 @@ In ICCV 2017<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/1705.02193"><img src="teasers/Thewlis2017.jpg"/></a></td>
+<td align="left" width=550>Unsupervised learning of object landmarks by factorized spatial embeddings<br>
+<a href="http://www.robots.ox.ac.uk/~jdt/">James Thewlis</a>, 
+<a href="http://homepages.inf.ed.ac.uk/hbilen/">Hakan Bilen</a>, 
+<a href="http://www.robots.ox.ac.uk/~vedaldi/">Andrea Vedaldi</a><br>
+In ICCV 2017<br>
+<a href="https://arxiv.org/abs/1705.02193">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/phillipi/pix2pix"><img src="teasers/Isola2017.jpg"/></a></td>
 <td align="left" width=550>Image-to-Image Translation with Conditional Adversarial Networks<br>
 <a href="https://github.com/phillipi">Phillip Isola</a>, 
