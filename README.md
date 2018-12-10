@@ -9,14 +9,6 @@ See also [Webpage](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 
 <br>
 
-<table><tbody><tr><td align="left" width=250>
-<a href="https://arxiv.org/abs/1802.08195"><img src="teasers/Gamaleldin2018.jpg"/></a></td>
-<td valign="middle" width=550>Adversarial Examples that Fool both Computer Vision and Time-Limited Humans<br>
-Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein<br>
-NIPS 2018<br>
-<a href="https://arxiv.org/pdf/1802.08195">[Paper]</a>
-</td></tr></tbody></table>
-
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/AlexiaJM/RelativisticGAN"><img src="teasers/Jolicoeur-Martineau2018.jpg"/></a></td>
 <td align="left" width=550>The relativistic discriminator: a key element missing from standard GAN<br>
@@ -68,6 +60,21 @@ In SIGGRAPH 2018<br>
 <a href="http://people.csail.mit.edu/jsolomon/">Justin Solomon</a><br>
 In SGP 2018<br>
 <a href="https://people.csail.mit.edu/jsolomon/assets/curve_fmaps.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/pdf/1802.08195"><img src="teasers/Elsayed2018.jpg"/></a></td>
+<td align="left" width=550>Adversarial Examples that Fool both Computer Vision and Time-Limited Humans<br>
+<a href="https://ai.google/research/people/GamaleldinFathyElsayed">Gamaleldin F. Elsayed</a>, 
+<a href="shreya-shankar.com">Shreya Shankar</a>, 
+<a href="https://scholar.google.com/citations?user=7N-ethYAAAAJ&hl=en">Brian Cheung</a>, 
+<a href="https://www.papernot.fr/">Nicolas Papernot</a>, 
+<a href="https://ai.google/research/people/AlexeyKurakin">Alex Kurakin</a>, 
+<a href="https://www.iangoodfellow.com/">Ian Goodfellow</a>, 
+<a href="http://www.sohldickstein.com/">Jascha Sohl-Dickstein</a><br>
+In NeurIPS 2018<br>
+<a href="https://arxiv.org/pdf/1802.08195">[Paper]</a> 
 </td></tr></tbody></table>
 
 
@@ -1092,6 +1099,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in Sep 2018
+Last updated in Dec 2018
 <br>
 
