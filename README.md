@@ -10,6 +10,20 @@ See also [Webpage](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://ieeexplore.ieee.org/document/8703138"><img src="teasers/Yan2019.jpg"/></a></td>
+<td align="left" width=550>Strong 3D Printing by TPMS Injection<br>
+Xin Yan, 
+Cong Rao, 
+Lin Lu, 
+<a href="https://www.cs.bgu.ac.il/~asharf/">Andrei Sharf</a>, 
+<a href="http://irc.cs.sdu.edu.cn/~zhaohaisen/">Haisen Zhao</a>, 
+<a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a><br>
+In IEEE TVCG 2019<br>
+<a href="https://ieeexplore.ieee.org/document/8703138">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/AlexiaJM/RelativisticGAN"><img src="teasers/Jolicoeur-Martineau2018.jpg"/></a></td>
 <td align="left" width=550>The relativistic discriminator: a key element missing from standard GAN<br>
 <a href="https://ajolicoeur.wordpress.com/">Alexia Jolicoeur-Martineau</a><br>
@@ -214,14 +228,14 @@ In CHI 2017<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="http://joseph.nlpweb.org/blog/2017/05/06/CHI-revolt/"><img src="teasers/Chang2017.jpg"/></a></td>
+<a href="https://joseph.nlpweb.org/CHI-revolt/"><img src="teasers/Chang2017.jpg"/></a></td>
 <td align="left" width=550>Revolt: Collaborative Crowdsourcing for Labeling Machine Learning Datasets<br>
-<a href="http://joseph.nlpweb.org/">Joseph Chee Chang</a>, 
+<a href="https://joseph.nlpweb.org/">Joseph Chee Chang</a>, 
 <a href="http://saleemaamershi.com/">Saleema Amershi</a>, 
 <a href="https://www.ecekamar.com/">Ece Kamar</a><br>
 In CHI 2017<br>
-<a href="http://joseph.nlpweb.org/images/papers/revolt-crowd-labeling.pdf">[Paper]</a> 
-<a href="http://joseph.nlpweb.org/blog/2017/05/06/CHI-revolt/">[Project]</a>
+<a href="https://joseph.nlpweb.org/images/papers/revolt-crowd-labeling.pdf">[Paper]</a> 
+<a href="https://joseph.nlpweb.org/CHI-revolt/">[Project]</a>
 </td></tr></tbody></table>
 
 
@@ -1110,6 +1124,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in Dec 2018
+Last updated in May 2019
 <br>
 
