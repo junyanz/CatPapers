@@ -130,6 +130,18 @@ In ECCV 2018<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://ps.is.tuebingen.mpg.de/publications/zuffi-cvpr-2018"><img src="teasers/Zuffi2018.jpg"/></a></td>
+<td align="left" width=550>Lions and Tigers and Bears: Capturing Non-Rigid 3D Articulated Shape from Images<br>
+<a href="https://ps.is.tuebingen.mpg.de/person/szuffi">Silvia Zuffi</a>, 
+<a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a>, 
+<a href="https://ps.is.mpg.de/~black">Michael J. Black</a><br>
+In CVPR 2018<br>
+<a href="http://files.is.tue.mpg.de/black/papers/zuffiCVPR2018.pdf">[Paper]</a> 
+<a href="https://ps.is.tuebingen.mpg.de/publications/zuffi-cvpr-2018">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://people.eecs.berkeley.edu/~lingqi/publications/paper_fur2.pdf"><img src="teasers/Yan2017.jpg"/></a></td>
 <td align="left" width=550>An Efficient and Practical Near and Far Field Fur Reflectance Model<br>
 <a href="https://people.eecs.berkeley.edu/~lingqi/">Ling-Qi Yan</a>, 
@@ -1124,6 +1136,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in May 2019
+Last updated in Sep 2019
 <br>
 
