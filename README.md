@@ -2,7 +2,7 @@
 
 As reported by Cisco, 90% of net traffic will be visual, and indeed, most of the visual data are cat photos and videos. Thus, understanding, modeling, and synthesizing our feline friends becomes a more and more critical research problem these days, especially for our cat lovers.
 
-**Cat Paper Collection** is an academic paper collection that includes computer graphics, computer vision, machine learning, and HCI papers that produce experimental results related to **cats**. If you want to add/remove an article, please send an email to [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/) (junyanz at mit dot edu).
+**Cat Paper Collection** is an academic paper collection that includes computer graphics, computer vision, and machine learning papers that produce experimental results related to **cats**. If you want to add/remove an article, please send an email to [Jun-Yan Zhu](https://github.com/junyanz/) (junyanz at cs dot cmu dot edu). We thank all the authors for their contribution and support.
 
 
 See also [Webpage](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.html) | [CSV file](https://github.com/junyanz/CatPapers/blob/master/data/reference.csv)
@@ -20,6 +20,18 @@ Lin Lu,
 <a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a><br>
 In IEEE TVCG 2019<br>
 <a href="https://ieeexplore.ieee.org/document/8703138">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/NVlabs/stylegan"><img src="teasers/Karras2019.jpg"/></a></td>
+<td align="left" width=550>A Style-Based Generator Architecture for Generative Adversarial Networks<br>
+<a href="https://research.nvidia.com/person/tero-karras">Tero Karras</a>, 
+<a href="https://users.aalto.fi/~laines9/">Samuli Laine</a>, 
+<a href="https://research.nvidia.com/person/timo-aila">Timo Aila</a><br>
+In CVPR 2019<br>
+<a href="https://arxiv.org/abs/1812.04948">[Paper]</a> 
+<a href="https://github.com/NVlabs/stylegan">[Project]</a>
 </td></tr></tbody></table>
 
 
