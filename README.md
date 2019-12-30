@@ -24,6 +24,17 @@ In IEEE TVCG 2019<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://cvil.eecs.yorku.ca/projects/public_html/wb_emulation/index.html"><img src="teasers/Afifi2019.jpg"/></a></td>
+<td align="left" width=550>What Else Can Fool Deep Learning? Addressing Color Constancy Errors on Deep Neural Network Performance<br>
+<a href="https://sites.google.com/view/mafifi">Mahmoud Afifi</a>, 
+<a href="http://www.cse.yorku.ca/~mbrown/">Michael S Brown</a><br>
+In ICCV 2019<br>
+<a href="https://arxiv.org/pdf/1912.06960.pdf">[Paper]</a> 
+<a href="http://cvil.eecs.yorku.ca/projects/public_html/wb_emulation/index.html">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/NVlabs/stylegan"><img src="teasers/Karras2019.jpg"/></a></td>
 <td align="left" width=550>A Style-Based Generator Architecture for Generative Adversarial Networks<br>
 <a href="https://research.nvidia.com/person/tero-karras">Tero Karras</a>, 
@@ -1148,6 +1159,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in Sep 2019
+Last updated in Dec 2019
 <br>
 
