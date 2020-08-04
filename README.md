@@ -5,7 +5,7 @@ As reported by Cisco, 90% of net traffic will be visual, and indeed, most of the
 **Cat Paper Collection** is an academic paper collection that includes computer graphics, computer vision, and machine learning papers that produce experimental results related to **cats**. If you want to add/remove an article, please send an email to [Jun-Yan Zhu](https://github.com/junyanz/) (junyanz at cs dot cmu dot edu). We thank all the authors for their contribution and support.
 
 
-See also [Webpage](http://people.eecs.berkeley.edu/~junyanz/cat/cat_papers.html) | [CSV file](https://github.com/junyanz/CatPapers/blob/master/data/reference.csv)
+See also [Webpage](http://www.cs.cmu.edu/~junyanz/cat/cat_papers.html) | [CSV file](https://github.com/junyanz/CatPapers/blob/master/data/reference.csv)
 
 <br>
 
@@ -179,7 +179,7 @@ In SIGGRAPH 2017<br>
 <a href="http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG17/lfv/"><img src="teasers/Wang2017.jpg"/></a></td>
 <td align="left" width=550>Light Field Video Capture Using a Learning-Based Hybrid Imaging System<br>
 <a href="https://people.eecs.berkeley.edu/~tcwang0509/">Ting-Chun Wang</a>, 
-<a href="https://people.eecs.berkeley.edu/~junyanz/">Jun-Yan Zhu</a>, 
+<a href="https://www.cs.cmu.edu/~junyanz/">Jun-Yan Zhu</a>, 
 <a href="http://nkhademi.com/">Nima Khademi Kalantari</a>, 
 <a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a>, 
 <a href="http://cseweb.ucsd.edu/~ravir/">Ravi Ramamoorthi</a><br>
@@ -204,7 +204,7 @@ In NIPS 2017<br>
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="https://junyanz.github.io/CycleGAN/"><img src="teasers/Zhu*2017.jpg"/></a></td>
 <td align="left" width=550>Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks<br>
-<a href="http://people.eecs.berkeley.edu/~junyanz/">Jun-Yan Zhu*</a>, 
+<a href="http://www.cs.cmu.edu/~junyanz/">Jun-Yan Zhu*</a>, 
 <a href="https://taesung.me/">Taesung Park*</a>, 
 <a href="http://people.eecs.berkeley.edu/~isola/">Phillip Isola</a>, 
 <a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a><br>
@@ -229,7 +229,7 @@ In ICCV 2017<br>
 <a href="https://github.com/phillipi/pix2pix"><img src="teasers/Isola2017.jpg"/></a></td>
 <td align="left" width=550>Image-to-Image Translation with Conditional Adversarial Networks<br>
 <a href="https://github.com/phillipi">Phillip Isola</a>, 
-<a href="https://people.eecs.berkeley.edu/~junyanz/">Jun-Yan Zhu</a>, 
+<a href="https://www.cs.cmu.edu/~junyanz/">Jun-Yan Zhu</a>, 
 <a href="https://people.eecs.berkeley.edu/~tinghuiz/">Tinghui Zhou</a>, 
 <a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a><br>
 In CVPR 2017<br>
@@ -473,14 +473,14 @@ In SIGGRAPH 2014<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="http://www.eecs.berkeley.edu/~junyanz/projects/averageExplorer/index.html"><img src="teasers/Zhu2014.jpg"/></a></td>
+<a href="https://www.cs.cmu.edu/~junyanz/projects/averageExplorer/index.html"><img src="teasers/Zhu2014.jpg"/></a></td>
 <td align="left" width=550>AverageExplorer: Interactive Exploration and Alignment of Visual Data Collections<br>
-<a href="http://www.eecs.berkeley.edu/~junyanz">Jun-Yan Zhu</a>, 
+<a href="https://www.cs.cmu.edu/~junyanz">Jun-Yan Zhu</a>, 
 <a href="http://www.cs.ucdavis.edu/~yjlee/">Yong Jae Lee</a>, 
 <a href="http://www.eecs.berkeley.edu/~efros/">Alexei A. Efros</a><br>
 In SIGGRAPH 2014<br>
-<a href="http://www.eecs.berkeley.edu/~junyanz/projects/averageExplorer/averageExplorer.pdf">[Paper]</a> 
-<a href="http://www.eecs.berkeley.edu/~junyanz/projects/averageExplorer/index.html">[Project]</a>
+<a href="https://www.cs.cmu.edu/~junyanz/projects/averageExplorer/averageExplorer.pdf">[Paper]</a> 
+<a href="https://www.cs.cmu.edu/~junyanz/projects/averageExplorer/index.html">[Project]</a>
 </td></tr></tbody></table>
 
 
@@ -1159,6 +1159,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in Dec 2019
+Last updated in Aug 2020
 <br>
 
