@@ -10,6 +10,19 @@ See also [Webpage](http://www.cs.cmu.edu/~junyanz/cat/cat_papers.html) | [CSV fi
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://chengao.vision/FGVC/"><img src="teasers/Gao2020.jpg"/></a></td>
+<td align="left" width=550>Flow-edge Guided Video Completion<br>
+<a href="http://chengao.vision/">Chen Gao</a>, 
+Ayush Saraf, 
+<a href="https://filebox.ece.vt.edu/~jbhuang/">Jia-Bin Huang</a>, 
+<a href="https://johanneskopf.de/">Johannes Kopf</a><br>
+In ECCV 2020<br>
+<a href="https://arxiv.org/pdf/2009.01835.pdf">[Paper]</a> 
+<a href="http://chengao.vision/FGVC/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://ieeexplore.ieee.org/document/8703138"><img src="teasers/Yan2019.jpg"/></a></td>
 <td align="left" width=550>Strong 3D Printing by TPMS Injection<br>
 Xin Yan, 
@@ -1159,6 +1172,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in Aug 2020
+Last updated in Nov 2020
 <br>
 
