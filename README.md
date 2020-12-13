@@ -23,6 +23,18 @@ In ECCV 2020<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://kaiyuyue.com/mgd/"><img src="teasers/Yue2020.jpg"/></a></td>
+<td align="left" width=550>Matching Guided Distillation<br>
+<a href="https://kaiyuyue.com/">Kaiyu Yue</a>, 
+Jiangfan Deng, 
+<a href="http://www.f-zhou.com/">Feng Zhou</a><br>
+In ECCV 2020<br>
+<a href="https://arxiv.org/pdf/2008.09958.pdf">[Paper]</a> 
+<a href="http://kaiyuyue.com/mgd/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://ieeexplore.ieee.org/document/8703138"><img src="teasers/Yan2019.jpg"/></a></td>
 <td align="left" width=550>Strong 3D Printing by TPMS Injection<br>
 Xin Yan, 
@@ -1172,6 +1184,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in Nov 2020
+Last updated in Dec 2020
 <br>
 
