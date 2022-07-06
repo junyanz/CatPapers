@@ -10,6 +10,20 @@ See also [Webpage](http://www.cs.cmu.edu/~junyanz/cat/cat_papers.html) | [CSV fi
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2203.08140"><img src="teasers/Xiang2022.jpg"/></a></td>
+<td align="left" width=550>Learning Spatio-Temporal Downsampling for Effective Video Upscaling<br>
+<a href="https://engineering.purdue.edu/people/xiaoyu.xiang.1">Xiaoyu Xiang</a>, 
+<a href="https://yapengtian.org/">Yapeng Tian</a>, 
+<a href="https://apvijay.github.io/">Vijay Rengarajan</a>, 
+Lucas Young, 
+<a href="https://scholar.google.com/citations?user=GwGsvm0AAAAJ&hl=en">Bo Zhu</a>, 
+Rakesh Ranjan<br>
+In ECCV 2022<br>
+<a href="https://arxiv.org/abs/2203.08140">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://banmo-www.github.io/"><img src="teasers/Yang2022.jpg"/></a></td>
 <td align="left" width=550>BANMo: Building Animatable 3D Neural Models from Many Casual Videos<br>
 <a href="https://gengshan-y.github.io/">Gengshan Yang</a>, 
@@ -21,6 +35,23 @@ See also [Webpage](http://www.cs.cmu.edu/~junyanz/cat/cat_papers.html) | [CSV fi
 In CVPR 2022<br>
 <a href="https://arxiv.org/abs/2112.12761">[Paper]</a> 
 <a href="https://banmo-www.github.io/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2203.14863"><img src="teasers/Xiang2022b.jpg"/></a></td>
+<td align="left" width=550>HIME: Efficient Headshot Image Super-Resolution with Multiple Exemplars<br>
+<a href="https://engineering.purdue.edu/people/xiaoyu.xiang.1">Xiaoyu Xiang</a>, 
+Jon Morton, 
+<a href="https://fitsumreda.github.io/">Fitsum A Reda</a>, 
+Lucas Young, 
+<a href="https://fperazzi.github.io/">Federico Perazzi</a>, 
+Rakesh Ranjan, 
+<a href="https://sites.google.com/view/amitumd/home?authuser=0">Amit Kumar</a>, 
+<a href="http://andreacolaco.info/">Andrea Colaco</a>, 
+<a href="https://engineering.purdue.edu/~allebach/">Jan Allebach</a><br>
+In ArXiv 2022<br>
+<a href="https://arxiv.org/abs/2203.14863">[Paper]</a> 
 </td></tr></tbody></table>
 
 
@@ -1199,6 +1230,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in May 2022
+Last updated in Jul 2022
 <br>
 
