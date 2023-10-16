@@ -10,6 +10,20 @@ See also [Webpage](http://www.cs.cmu.edu/~junyanz/cat/cat_papers.html) | [CSV fi
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2304.12152"><img src="teasers/Jiang2023.jpg"/></a></td>
+<td align="left" width=550>Efficient Halftoning via Deep Reinforcement Learning<br>
+Haitian Jiang, 
+Dongliang Xiong, 
+Xiaowen Jiang, 
+Li Ding, 
+Liang Chen, 
+Kai Huang<br>
+In IEEE TIP 2023<br>
+<a href="https://arxiv.org/abs/2304.12152">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://arxiv.org/abs/2203.08140"><img src="teasers/Xiang2022.jpg"/></a></td>
 <td align="left" width=550>Learning Spatio-Temporal Downsampling for Effective Video Upscaling<br>
 <a href="https://engineering.purdue.edu/people/xiaoyu.xiang.1">Xiaoyu Xiang</a>, 
@@ -47,9 +61,9 @@ Jon Morton,
 Lucas Young, 
 <a href="https://fperazzi.github.io/">Federico Perazzi</a>, 
 Rakesh Ranjan, 
-<a href="https://sites.google.com/view/amitumd/home?authuser=0">Amit Kumar</a>, 
-<a href="http://andreacolaco.info/">Andrea Colaco</a>, 
-<a href="https://engineering.purdue.edu/~allebach/">Jan Allebach</a><br>
+Amit Kumar, 
+Andrea Colaco, 
+Jan Allebach<br>
 In ArXiv 2022<br>
 <a href="https://arxiv.org/abs/2203.14863">[Paper]</a> 
 </td></tr></tbody></table>
@@ -1230,6 +1244,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in Jul 2022
+Last updated in Oct 2023
 <br>
 
