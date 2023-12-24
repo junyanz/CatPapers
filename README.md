@@ -371,25 +371,6 @@ In SIGGRAPH 2016<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="http://irc.cs.sdu.edu.cn/CFS/"><img src="teasers/Zhao2016.jpg"/></a></td>
-<td align="left" width=550>Connected Fermat Spirals for Layered Fabrication<br>
-<a href="http://irc.cs.sdu.edu.cn/~zhaohaisen/">Haisen Zhao</a>, 
-Fanglin Gu, 
-<a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang</a>, 
-J. A. Garcia Galicia, 
-<a href="http://www-bcf.usc.edu/~yongchen/">Yong Chen</a>, 
-<a href="http://www.cs.sdu.edu.cn/zh/~chtu">Changhe Tu</a>, 
-<a href="http://hpcg.purdue.edu/bbenes/index.htm">Bedrich Benes</a>, 
-<a href="http://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, 
-<a href="http://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a>, 
-<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a><br>
-In SIGGRAPH 2016<br>
-<a href="http://irc.cs.sdu.edu.cn/~zhaohaisen/paper/fermat_spirals.pdf">[Paper]</a> 
-<a href="http://irc.cs.sdu.edu.cn/CFS/">[Project]</a>
-</td></tr></tbody></table>
-
-
-<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/akanazawa/catdeform"><img src="teasers/Kanazawa2016.jpg"/></a></td>
 <td align="left" width=550>Learning 3D Deformation of Animals from 2D Images<br>
 <a href="http://www.umiacs.umd.edu/~kanazawa/">Angjoo Kanazawa</a>, 
@@ -1244,6 +1225,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in Oct 2023
+Last updated in Dec 2023
 <br>
 
