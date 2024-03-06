@@ -10,7 +10,7 @@ See also [Webpage](http://www.cs.cmu.edu/~junyanz/cat/cat_papers.html) | [CSV fi
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/abs/2311.17048"><img src="teasers/ "/></a></td>
+<a href="https://arxiv.org/abs/2311.17048"><img src="teasers/Han2024.jpg"/></a></td>
 <td align="left" width=550>Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions<br>
 <a href="https://show-han.github.io/">Zeyu Han</a>, 
 <a href="https://fangruizhu.github.io/">Fangrui Zhu</a>, 
