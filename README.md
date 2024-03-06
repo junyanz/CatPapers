@@ -10,6 +10,18 @@ See also [Webpage](http://www.cs.cmu.edu/~junyanz/cat/cat_papers.html) | [CSV fi
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2311.17048"><img src="teasers/ "/></a></td>
+<td align="left" width=550>Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions<br>
+<a href="https://show-han.github.io/">Zeyu Han</a>, 
+<a href="https://fangruizhu.github.io/">Fangrui Zhu</a>, 
+<a href="https://estherbear.github.io/">Qianru Lao</a>, 
+<a href="https://jianghz.me/">Huaizu Jiang</a><br>
+In CVPR 2024<br>
+<a href="https://arxiv.org/abs/2311.17048">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://arxiv.org/abs/2304.12152"><img src="teasers/Jiang2023.jpg"/></a></td>
 <td align="left" width=550>Efficient Halftoning via Deep Reinforcement Learning<br>
 Haitian Jiang, 
@@ -1225,6 +1237,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in Dec 2023
+Last updated in Mar 2024
 <br>
 
