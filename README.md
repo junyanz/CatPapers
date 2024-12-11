@@ -13,8 +13,7 @@ See also [Webpage](http://www.cs.cmu.edu/~junyanz/cat/cat_papers.html) | [CSV fi
 <a href="https://compvis.github.io/mask/"><img src="teasers/Hu2024b.jpg"/></a></td>
 <td align="left" width=550>MASK is All You Need<br>
 <a href="https://taohu.me/">Vincent Tao Hu</a>, 
-Bj&#246, 
-<a href="https://ommer-lab.com/people/ommer/">rn Ommer</a><br>
+<a href="https://ommer-lab.com/people/ommer/">Bj&#246rn Ommer</a><br>
 In arXiv 2024<br>
 <a href="https://arxiv.org/abs/2412.06787">[Paper]</a> 
 <a href="https://compvis.github.io/mask/">[Project]</a>
@@ -30,8 +29,7 @@ In arXiv 2024<br>
 <a href="https://www.linkedin.com/in/grebenkovao/">Olga Grebenkova</a>, 
 <a href="https://www.linkedin.com/in/pingchuan-ma-492543156/">Pingchuan Ma</a>, 
 <a href="https://www.linkedin.com/in/js-fischer/">Johannes Fischer</a>, 
-Bj&#246, 
-<a href="https://ommer-lab.com/people/ommer/">rn Ommer</a><br>
+<a href="https://ommer-lab.com/people/ommer/">Bj&#246rn Ommer</a><br>
 In ECCV 2024<br>
 <a href="https://arxiv.org/abs/2403.13802">[Paper]</a> 
 <a href="https://taohu.me/zigma/">[Project]</a>
