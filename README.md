@@ -10,6 +10,17 @@ See also [Webpage](http://www.cs.cmu.edu/~junyanz/cat/cat_papers.html) | [CSV fi
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://compvis.github.io/mask/"><img src="teasers/Hu2024b.jpg"/></a></td>
+<td align="left" width=550>MASK is All You Need<br>
+<a href="https://taohu.me/">Vincent Tao Hu</a>, 
+<a href="https://ommer-lab.com/people/ommer/">Björn Ommer</a><br>
+In arXiv 2024<br>
+<a href="https://arxiv.org/abs/2412.06787">[Paper]</a> 
+<a href="https://compvis.github.io/mask/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://taohu.me/zigma/"><img src="teasers/Hu2024.jpg"/></a></td>
 <td align="left" width=550>ZIGMA: A DiT-style Zigzag Mamba Diffusion Model<br>
 <a href="https://taohu.me/">Vincent Tao Hu</a>, 
