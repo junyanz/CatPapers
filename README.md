@@ -25,7 +25,6 @@ In ECCV 2024<br>
 </td></tr></tbody></table>
 
 
-
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="https://arxiv.org/abs/2311.17048"><img src="teasers/Han2024.jpg"/></a></td>
 <td align="left" width=550>Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions<br>
@@ -35,6 +34,18 @@ In ECCV 2024<br>
 <a href="https://jianghz.me/">Huaizu Jiang</a><br>
 In CVPR 2024<br>
 <a href="https://arxiv.org/abs/2311.17048">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2211.09324"><img src="teasers/Choi2023.jpg"/></a></td>
+<td align="left" width=550>Blurring-Sharpening Process Models for Collaborative Filtering<br>
+<a href="https://jeongwhanchoi.me/">Jeongwhan Choi</a>, 
+<a href="https://seoyoungh.github.io">Seoyoung Hong</a>, 
+<a href="https://scholar.google.com/citations?user=VSuM3gYAAAAJ&hl=en">Noseong Park</a>, 
+<a href="https://scholar.google.com/citations?user=px5LGgMAAAAJ&hl=en">Sung-Bae Cho</a><br>
+In SIGIR 2023<br>
+<a href="https://arxiv.org/abs/2211.09324">[Paper]</a> 
 </td></tr></tbody></table>
 
 
