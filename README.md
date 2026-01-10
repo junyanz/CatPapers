@@ -10,6 +10,19 @@ See also [Webpage](http://www.cs.cmu.edu/~junyanz/cat/cat_papers.html) | [CSV fi
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2601.00090"><img src="teasers/Harrington2025.jpg"/></a></td>
+<td align="left" width=550>Its Never Too Late: Noise Optimization for Collapse Recovery in Trained Diffusion Models<br>
+<a href="https://anneharrington.github.io/">Anne Harrington</a>, 
+<a href="https://akoepke.github.io/">A. Sophia Koepke</a>, 
+<a href="https://sgk98.github.io/">Shyamgopal Karthik</a>, 
+<a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>, 
+<a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a><br>
+In arXiv 2025<br>
+<a href="https://arxiv.org/abs/2601.00090">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://compvis.github.io/mask/"><img src="teasers/Hu2024b.jpg"/></a></td>
 <td align="left" width=550>MASK is All You Need<br>
 <a href="https://taohu.me/">Vincent Tao Hu</a>, 
@@ -1276,6 +1289,6 @@ In Psychological Review 1954<br>
 
 <br>
 
-Last updated in Dec 2024
+Last updated in Jan 2026
 <br>
 
