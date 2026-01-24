@@ -23,6 +23,22 @@ In arXiv 2025<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://sihyun.me/REPA/"><img src="teasers/Yu2025.jpg"/></a></td>
+<td align="left" width=550>Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think<br>
+<a href="https://sihyun.me/">Sihyun Yu</a>, 
+<a href="https://sang-kyung.github.io/">Sangkyung Kwak</a>, 
+<a href="https://huiwon-jang.github.io/">Huiwon Jang</a>, 
+<a href="https://jh-jeong.github.io/">Jongheon Jeong</a>, 
+<a href="http://jonathan-huang.org/">Jonathan Huang</a>, 
+<a href="https://alinlab.kaist.ac.kr/shin.html">Jinwoo Shin</a>, 
+<a href="https://www.sainingxie.com/">Saining Xie</a><br>
+In ICLR 2025<br>
+<a href="http://arxiv.org/abs/2410.06940">[Paper]</a> 
+<a href="https://sihyun.me/REPA/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://compvis.github.io/mask/"><img src="teasers/Hu2024b.jpg"/></a></td>
 <td align="left" width=550>MASK is All You Need<br>
 <a href="https://taohu.me/">Vincent Tao Hu</a>, 
